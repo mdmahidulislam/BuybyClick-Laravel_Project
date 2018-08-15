@@ -4022,7 +4022,7 @@ tbody.collapse.show {
           justify-content: space-between;
 }
 
-.navbar-brand {
+.navbar-Home {
   display: inline-block;
   padding-top: 0.32421875rem;
   padding-bottom: 0.32421875rem;
@@ -4032,7 +4032,7 @@ tbody.collapse.show {
   white-space: nowrap;
 }
 
-.navbar-brand:hover, .navbar-brand:focus {
+.navbar-Home:hover, .navbar-Home:focus {
   text-decoration: none;
 }
 
@@ -4387,11 +4387,11 @@ tbody.collapse.show {
   bottom: 100%;
 }
 
-.navbar-light .navbar-brand {
+.navbar-light .navbar-Home {
   color: rgba(0, 0, 0, 0.9);
 }
 
-.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+.navbar-light .navbar-Home:hover, .navbar-light .navbar-Home:focus {
   color: rgba(0, 0, 0, 0.9);
 }
 
@@ -4435,11 +4435,11 @@ tbody.collapse.show {
   color: rgba(0, 0, 0, 0.9);
 }
 
-.navbar-dark .navbar-brand {
+.navbar-dark .navbar-Home {
   color: #fff;
 }
 
-.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+.navbar-dark .navbar-Home:hover, .navbar-dark .navbar-Home:focus {
   color: #fff;
 }
 

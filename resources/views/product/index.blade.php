@@ -49,7 +49,7 @@
 				<td>{{$product->productname}}</td>
 				<td>{{$product->price}}</td>
 				<td>{{$product->quantity}}</td>
-				<td>{{$product->catagoryId}}</td>
+				<td>{{$product->CategoryId}}</td>
 				<?php 
 		      		$totalPrice+=$product->price; 
 		      		$totalQuantity+=$product->quantity;          

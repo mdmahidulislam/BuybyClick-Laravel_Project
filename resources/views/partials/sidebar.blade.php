@@ -1,7 +1,7 @@
 <html>
-<div class="mtt_catagory">
-    <img src="https://s6.postimg.org/9m3yvl65p/catagory_icon.png" />
-    Catagory
+<div class="mtt_Category">
+    <img src="https://s6.postimg.org/9m3yvl65p/Category_icon.png" />
+    Category
 </div>
 <div id="mainselection">
 	<nav class="navbar navbar-inverse">
@@ -13,7 +13,7 @@
 	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Select Product <span class="caret text-right"></span></a>
 	          <ul class="dropdown-menu">
 	          	@foreach($categories as $c)
-	          		<li><a href="/index/{{$c->id}}/catagorysearch">{{$c->categoryname}}</a></li>
+	          		<li><a href="/index/{{$c->id}}/Categorysearch">{{$c->categoryname}}</a></li>
 	          	@endforeach
 	          </ul>
 	        </li>

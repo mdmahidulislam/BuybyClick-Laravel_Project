@@ -10,18 +10,18 @@
 class Issue2137Test extends PHPUnit\Framework\TestCase
 {
     /**
-     * @dataProvider provideBrandService
+     * @dataProvider provideHomeService
      *
      * @throws Exception
      * @throws \PHPUnit\Framework\ExpectationFailedException
      * @throws \SebastianBergmann\RecursionContext\InvalidArgumentException
      */
-    public function testBrandService($provided, $expected): void
+    public function testHomeService($provided, $expected): void
     {
         $this->assertSame($provided, $expected);
     }
 
-    public function provideBrandService()
+    public function provideHomeService()
     {
         return [
             //[true, true]
@@ -30,7 +30,7 @@ class Issue2137Test extends PHPUnit\Framework\TestCase
     }
 
     /**
-     * @dataProvider provideBrandService
+     * @dataProvider provideHomeService
      *
      * @throws Exception
      * @throws \PHPUnit\Framework\ExpectationFailedException

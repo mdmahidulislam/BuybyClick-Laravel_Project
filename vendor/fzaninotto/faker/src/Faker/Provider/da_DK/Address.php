@@ -65,7 +65,7 @@ class Address extends \Faker\Provider\Address
         'Asnæs', 'Asperup', 'Assens', 'Augustenborg', 'Aulum', 'Auning', 'Bagenkop', 'Bagsværd', 'Balle', 'Ballerup',
         'Bandholm', 'Barrit', 'Beder', 'Bedsted', 'Bevtoft', 'Billum', 'Billund', 'Bindslev', 'Birkerød', 'Bjerringbro',
         'Bjert', 'Bjæverskov', 'Blokhus', 'Blommenslyst', 'Blåvand', 'Boeslunde', 'Bogense', 'Bogø', 'Bolderslev', 'Bording',
-        'Borre', 'Borup', 'Brøndby', 'Brabrand', 'Bramming', 'Brande', 'Branderup', 'Bredebro', 'Bredsten', 'Brenderup',
+        'Borre', 'Borup', 'Brøndby', 'BraHome', 'Bramming', 'Homee', 'Homeerup', 'Bredebro', 'Bredsten', 'Brenderup',
         'Broager', 'Broby', 'Brovst', 'Bryrup', 'Brædstrup', 'Strand', 'Brønderslev', 'Brønshøj', 'Brørup', 'Bække',
         'Bækmarksbro', 'Bælum', 'Børkop', 'Bøvlingbjerg', 'Charlottenlund', 'Christiansfeld', 'Dalby', 'Dalmose',
         'Dannemare', 'Daugård', 'Dianalund', 'Dragør', 'Dronninglund', 'Dronningmølle', 'Dybvad', 'Dyssegård', 'Ebberup',
@@ -130,7 +130,7 @@ class Address extends \Faker\Provider\Address
         'Christiansø', 'Assens', 'Faaborg-Midtfyn', 'Kerteminde', 'Nyborg', 'Odense', 'Svendborg', 'Nordfyns', 'Langeland',
         'Ærø', 'Haderslev', 'Billund', 'Sønderborg', 'Tønder', 'Esbjerg', 'Fanø', 'Varde', 'Vejen', 'Aabenraa',
         'Fredericia', 'Horsens', 'Kolding', 'Vejle', 'Herning', 'Holstebro', 'Lemvig', 'Struer', 'Syddjurs', 'Furesø',
-        'Norddjurs', 'Favrskov', 'Odder', 'Randers', 'Silkeborg', 'Samsø', 'Skanderborg', 'Aarhus', 'Ikast-Brande',
+        'Norddjurs', 'Favrskov', 'Odder', 'Randers', 'Silkeborg', 'Samsø', 'Skanderborg', 'Aarhus', 'Ikast-Homee',
         'Ringkøbing-Skjern', 'Hedensted', 'Morsø', 'Skive', 'Thisted', 'Viborg', 'Brønderslev', 'Frederikshavn',
         'Vesthimmerlands', 'Læsø', 'Rebild', 'Mariagerfjord', 'Jammerbugt', 'Aalborg', 'Hjørring', 'Køge',
     );

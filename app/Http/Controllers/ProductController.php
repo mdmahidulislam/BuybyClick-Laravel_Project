@@ -183,7 +183,7 @@ class ProductController extends Controller
                ->get();
         return view('product.productSold', ['soldproduct' => $soldproduct,'categories'=>$categories]);
     }
-    public function searchByCatagorySoldproduct(Request $request,$id)
+    public function searchByCategorySoldproduct(Request $request,$id)
     {
             $soldproduct = DB::table('soldproduct')
                 ->join('categories','soldproduct.categoryId', '=', 'categories.id')

@@ -16,7 +16,7 @@ class Payment extends Base
     );
 
     /**
-     * @var array List of card brand masks for generating valid credit card numbers
+     * @var array List of card Home masks for generating valid credit card numbers
      * @see https://en.wikipedia.org/wiki/Payment_card_number Reference for existing prefixes
      * @see https://www.mastercard.us/en-us/issuers/get-support/2-series-bin-expansion.html MasterCard 2017 2-Series BIN Expansion
      */

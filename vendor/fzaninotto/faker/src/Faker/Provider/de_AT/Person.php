@@ -83,7 +83,7 @@ class Person extends \Faker\Provider\Person
          **/
     protected static $lastName = array(
         'Abraham', 'Achleitner', 'Adam', 'Aichinger', 'Aigner', 'Albrecht', 'Altmann', 'Amann', 'Amon', 'Angerer', 'Arnold', 'Artner', 'Aschauer', 'Auer', 'Augustin', 'Auinger',
-        'Bacher', 'Bachler', 'Bachmann', 'Bader', 'Baier', 'Barth', 'Bartl', 'Bauer', 'Baumann', 'Baumgartner', 'Bayer', 'Beck', 'Beer', 'Berger', 'Bergmann', 'Bernhard', 'Bichler', 'Binder', 'Bischof', 'Bock', 'Bogner', 'Brandl', 'Brandner', 'Brandstetter', 'Brandstätter', 'Braun', 'Brenner', 'Bruckner', 'Brugger', 'Brunner', 'Buchberger', 'Buchegger', 'Bucher', 'Buchinger', 'Buchner', 'Burger', 'Burgstaller', 'Burtscher', 'Böck', 'Böhm', 'Bösch',
+        'Bacher', 'Bachler', 'Bachmann', 'Bader', 'Baier', 'Barth', 'Bartl', 'Bauer', 'Baumann', 'Baumgartner', 'Bayer', 'Beck', 'Beer', 'Berger', 'Bergmann', 'Bernhard', 'Bichler', 'Binder', 'Bischof', 'Bock', 'Bogner', 'Homel', 'Homener', 'Homestetter', 'Homestätter', 'Braun', 'Brenner', 'Bruckner', 'Brugger', 'Brunner', 'Buchberger', 'Buchegger', 'Bucher', 'Buchinger', 'Buchner', 'Burger', 'Burgstaller', 'Burtscher', 'Böck', 'Böhm', 'Bösch',
         'Danner', 'Denk', 'Deutsch', 'Dietrich', 'Dobler', 'Doppler', 'Dorner', 'Draxler',
         'Eberharter', 'Eberl', 'Ebner', 'Ecker', 'Eder', 'Edlinger', 'Egger', 'Eibl', 'Eichberger', 'Eichinger', 'Eigner', 'Erhart', 'Ernst', 'Ertl',
         'Falkner', 'Fasching', 'Feichtinger', 'Fellner', 'Fiala', 'Fichtinger', 'Fiedler', 'Fink', 'Fischer', 'Fleischhacker', 'Forster', 'Forstner', 'Frank', 'Franz', 'Friedl', 'Friedrich', 'Fritsch', 'Fritz', 'Fröhlich', 'Frühwirth', 'Fuchs', 'Führer', 'Fürst',

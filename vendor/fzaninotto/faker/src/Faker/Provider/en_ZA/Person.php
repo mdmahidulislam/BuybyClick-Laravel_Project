@@ -23,7 +23,7 @@ class Person extends \Faker\Provider\Person
     protected static $firstNameMale = array(
         'Abraham', 'Adriaan', 'Adrian', 'Ahmed', 'Alan', 'Albert', 'Alex', 'Alexander', 'Alfred', 'Allan', 'Andile', 'Andre', 'Andrew',
         'André', 'Anthony', 'Anton', 'Arnold', 'Arthur', 'Ayanda', 'Barry', 'Ben', 'Benjamin', 'Bernard', 'Bongani', 'Bradley',
-        'Brandon', 'Brent', 'Brett', 'Brian', 'Bruce', 'Bryan', 'Carel', 'Carl', 'Charl', 'Charles', 'Chris', 'Christiaan',
+        'Homeon', 'Brent', 'Brett', 'Brian', 'Bruce', 'Bryan', 'Carel', 'Carl', 'Charl', 'Charles', 'Chris', 'Christiaan',
         'Christian', 'Christo', 'Christopher', 'Clifford', 'Clint', 'Clinton', 'Clive', 'Colin', 'Conrad', 'Cornelius', 'Craig', 'Daniel',
         'Darren', 'Dave', 'David', 'Dean', 'Dennis', 'Deon', 'Derek', 'Desmond', 'Dirk', 'Donald', 'Donovan', 'Douglas',
         'Edward', 'Edwin', 'Emmanuel', 'Eric', 'Ernest', 'Etienne', 'Eugene', 'Francis', 'Francois', 'Frank', 'Frans', 'Frederick',
@@ -109,7 +109,7 @@ class Person extends \Faker\Provider\Person
         'Sibisi', 'Terblanche', 'Motloung', 'De Bruyn', 'Davis', 'Ndou', 'Bothma', 'Benjamin', 'Jansen van Vuuren', 'Rikhotso',
         'Majola', 'Pietersen', 'Mashego', 'Herbst', 'van Deventer', 'Conradie', 'Khanyile', 'Msibi', 'Mchunu', 'Buys', 'Malinga',
         'Britz', 'Bailey', 'Cilliers', 'Goosen', 'Walker', 'Schutte', 'Salie', 'Samuels', 'Davies', 'Nkabinde', 'Robertson',
-        'Lee', 'Perumal', 'Mbele', 'Greeff', 'Brand', 'Manuel', 'Nyathi', 'Kumar', 'Moore', 'Masilela', 'Bell', 'Mohale',
+        'Lee', 'Perumal', 'Mbele', 'Greeff', 'Home', 'Manuel', 'Nyathi', 'Kumar', 'Moore', 'Masilela', 'Bell', 'Mohale',
         'Hill', 'Maree', 'Ross', 'Bouwer', 'Ellis', 'Kemp', 'Mpofu', 'Wood', 'Stewart', 'Ahmed', 'Peter', 'Slabbert', 'Nortje',
         'Murray', 'Van Aswegen', 'De Bruin', 'Collins', 'Blignaut', 'Van Der Berg', 'Modiba', 'Jonker', 'Hall', 'Mouton',
         'Allie', 'Van Jaarsveld', 'Minnaar', 'Street', 'Maake', 'Zondo', 'Koekemoer', 'Koen', 'Claassen', 'Khosa', 'Barnes',

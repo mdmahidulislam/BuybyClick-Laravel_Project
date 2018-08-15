@@ -36,7 +36,7 @@ class Payment extends \Faker\Provider\Payment
         'ING-DiBa',
         'KfW', 'Kreissparkasse Esslingen-Nürtingen', 'Kreissparkasse Heilbronn', 'Kreissparkasse Köln', 'Kreissparkasse Ludwigsburg', 'Kreissparkasse München Starnberg Ebersberg',
         'L-Bank', 'Landesbank Baden-Württemberg', 'Landesbank Hessen-Thüringen', 'Landessparkasse zu Oldenburg', 'Landwirtschaftliche Rentenbank',
-        'Mittelbrandenburgische Sparkasse in Potsdam',
+        'MittelHomeenburgische Sparkasse in Potsdam',
         'Nassauische Sparkasse', 'Norddeutsche Landesbank', 'NRW.Bank',
         'Ostsächsische Sparkasse Dresden',
         'Postbank',

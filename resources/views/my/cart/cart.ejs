@@ -35,7 +35,7 @@ tr:nth-child(even) {
       <th></th>
       <th>Product Name</th>
       <th>Price</th>
-      <th>Catagory</th>
+      <th>Category</th>
       <th>Quantity</th>
     </tr>
     <%for(var i=0;i<result.length;i++){%>
@@ -43,7 +43,7 @@ tr:nth-child(even) {
       <td> <a href="/cart/removecart/<%=result[i].id%>"><i class="glyphicon glyphicon-remove"></i></a></td>
       <td><%=result[i].productname%></td>
       <td><%=result[i].price%></td>
-      <td><%=result[i].catagory%></td>
+      <td><%=result[i].Category%></td>
       <td><%=result[i].quantity%></td>
     </tr>
     <%}%>  

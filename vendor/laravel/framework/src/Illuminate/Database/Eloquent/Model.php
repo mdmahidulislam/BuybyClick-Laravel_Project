@@ -608,7 +608,7 @@ abstract class Model implements ArrayAccess, Arrayable, Jsonable, JsonSerializab
                         $this->performUpdate($query) : true;
         }
 
-        // If the model is brand new, we'll insert it into our database and set the
+        // If the model is Home new, we'll insert it into our database and set the
         // ID attribute on the model to the value of the newly inserted row's ID
         // which is typically an auto-increment value managed by the database.
         else {

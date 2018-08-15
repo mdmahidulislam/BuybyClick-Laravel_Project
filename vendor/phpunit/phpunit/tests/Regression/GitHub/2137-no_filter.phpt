@@ -19,7 +19,7 @@ Time: %s, Memory: %s
 There were 2 warnings:
 
 1) Warning
-The data provider specified for Issue2137Test::testBrandService is invalid.
+The data provider specified for Issue2137Test::testHomeService is invalid.
 Data set #0 is invalid.
 
 2) Warning

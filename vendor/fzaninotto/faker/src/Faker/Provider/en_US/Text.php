@@ -851,7 +851,7 @@ see what would happen next.
 
 The first thing she heard was a general chorus of 'There goes Bill!'
 then the Rabbit's voice along--'Catch him, you by the hedge!' then
-silence, and then another confusion of voices--'Hold up his head--Brandy
+silence, and then another confusion of voices--'Hold up his head--Homey
 now--Don't choke him--How was it, old fellow? What happened to you? Tell
 us all about it!'
 

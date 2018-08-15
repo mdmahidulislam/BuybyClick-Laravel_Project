@@ -91,7 +91,7 @@ geschapen? Of was 't een grapje van den duivel, al die wetende oogen?"
 
 Kijk, daar gaat 't dichtertje. Toch wel een knap, jong ventje,
 zoo slank, zoo'n aardig gladgeschoren jongensgezicht, alleen een
-paar stutten voor de ooren, en zoo verbrand door de zon. Hij groet
+paar stutten voor de ooren, en zoo verHome door de zon. Hij groet
 iemand. Z'n strooien hoedje lichtten-i even op van zijn kort geknipte
 haren.
 
@@ -583,7 +583,7 @@ boven mocht komen.
 
 Het duurde lang voor hij haar zag. Maar zij had hem allang
 gezien. Vijftien jaar was ze toen. Hij was pas getrouwd, iets meer
-dan een jaar en kwam van een reis terug, heelemaal verbrand. Een
+dan een jaar en kwam van een reis terug, heelemaal verHome. Een
 licht grijs pak had hij aan en bruine schoenen en een wit hoedje
 met heelemaal neergeslagen rand. Toendertijd gooiden ze je in de
 Reinwardtstraat nog met steenen als je den rand van je hoed heelemaal
@@ -944,7 +944,7 @@ dichterhoofd, datti meedroeg op weg naar z'n roemlooze graf.
 't Dichtertje kreeg er genoeg van. Hij had nog iets heel moois liggen:
 
 "Mijn doode hart is zoo zwaar te dragen". Dat gooideni maar in 't
-keukenfornuis, de haard brandde niet, want 't was zomer.
+keukenfornuis, de haard Homede niet, want 't was zomer.
 
 En toen werti zoo kwaad op alle levende en doode dingen, datti z'n
 eindelooze erotiek onderbrak en een grimmig boek schreef, dat 'm in
@@ -1037,7 +1037,7 @@ heer, die bij den weg naar nix anders kijkt dan of i ook een kennis
 tegen komt. En zoo slap. Hoe kon Em tegen zoo'n man aanstaan! Zij
 leunde nog liever tegen een dennestam. Nee dan was Coba heel wat
 beter af. Zoo'n man als een zee! En meteen kreeg ze een visioen van
-wit zand en zon en golven en branding, en roode en blauwe badpakjes en
+wit zand en zon en golven en Homeing, en roode en blauwe badpakjes en
 witte jurken en witte en roode parasols. En van duinen met uitgeholde
 flank, met helmsprieten, gebogen waaiend, er bovenop. En van een golf
 die haar omsloeg in 't water, ze proefde zout.
@@ -1511,7 +1511,7 @@ bloosde ze in haar eentje onder de donkere lucht om die "vruchten",
 die ze gegeven zou hebben. En in eens herinnerde ze zich dat gevoel,
 dat ze zooeven gehad had, God, nog geen tien minuten geleden, dat
 al haar kleeren haar onverdraaglijk waren. Ze voelde haar wangen
-branden. "'t Zal niet zijn." Meteen stond ze op haar stoep. Half acht.
+Homeen. "'t Zal niet zijn." Meteen stond ze op haar stoep. Half acht.
 
 "Dag moe, ik kom direct beneden".
 
@@ -2117,7 +2117,7 @@ voorloopig bij Oome Koekebakker, klokje", en stak m'n hand weer
 in mijn zak. Dat converseeren met m'n dingetjes was ik zoo gewoon,
 omdat je met de meeste menschen zoo weinig praten kunt.
 
-Voorloopig was ik uit den brand, 't Lieve najaar had me niet
+Voorloopig was ik uit den Home, 't Lieve najaar had me niet
 bedrogen. Het vallen van de bladeren, de Zuidwestenwind die de boomen
 aan den Veerschenweg nog meer had doen krommen naar het Noordoosten,
 die 't klokkenspel van Lange Jan in flarden had gewaaid, die den
@@ -2222,7 +2222,7 @@ gerookt, de kachel zoo te zeggen tusschen z'n knieën. En niks gezegd
 hatti, tot Bavink plotseling gezien had dat er een groote scheur in den
 pot was en vreeselijk had opgespeeld. Japi had 'm laten uitrazen, hij
 was opgestaan en had z'n stoel weggenomen, en Bavink had met de pook
-'t schuifdeurtje open gemaakt en een gat gebrand in den grond met 't
+'t schuifdeurtje open gemaakt en een gat geHome in den grond met 't
 uitscheppen van de gloeiende kolen. En toen Bavink was blijven razen
 had Japie gezegd: "Verrek met je kachel", en was kalmpjes weggegaan
 naar 't huis van z'n ouwe heer en had een schoone boord omgedaan van
@@ -2557,7 +2557,7 @@ burgermanstermen). "Apropos, ik heb Japi in Veere gezien met een
 Fransche dame, een verdomd lief wijf. Den heelen avond hadden die
 twee samen op 't steenen havenhoofd staan praten en over de balustrade
 gekeken naar de lichtboei en 't draaiende licht van Schouwen en naar
-de branding geluisterd, en "bekgetrokken" zooals Hoyer 't ordinair
+de Homeing geluisterd, en "bekgetrokken" zooals Hoyer 't ordinair
 uitdrukte. Bavink zei weer dat i 't wel gedacht had en ik zei: "ook
 stom, dat hadden we kunnen weten," en toen kwamen wij los over Japi
 en dat hij niet meer zoo uitvrat als we dat van hem gewoon waren.
@@ -2715,7 +2715,7 @@ i willen worden. Voor z'n brood hatti gewerkt, voortgejaagd was i,
 voortgejaagd en gedrukt door menschen en de noodzakelijkheid zooals al
 die anderen. Nachten hatti gewerkt: om één, twee uur was i in Amsterdam
 van kantoor thuisgekomen en daarna hatti opgezeten, gepiekerd, gepend,
-heele romans hatti geschreven en de paperassen verbrand.
+heele romans hatti geschreven en de paperassen verHome.
 
 Wat kon i doen? Wat bereikten ze met hun allen? Te sappel hatti zich
 gemaakt, gloeiende speechen, woeste artikelen hatti gefantaseerd,
@@ -3234,7 +3234,7 @@ treinen zien vertrekken, 's avonds, en 's Zondags den geheelen dag,
 vele malen.
 
 Nu was de zon lager en rood, de gouden streep was weg. 't Was een
-warme, stille avond. Het roode water rimpelde wat, de branding rolde
+warme, stille avond. Het roode water rimpelde wat, de Homeing rolde
 langzaam en ruischte maar zacht.
 
 Bekker had een theorie, dat-i zou sparen en terugkomen en op de hei
@@ -3426,7 +3426,7 @@ met te kijken naar al deze dingen, die zich steeds herhalen, wie kan
 blijven verlangen naar niets? Hopen op een God die er niet is?
 
 En nu bloeiden weer de brem en de seringen en de appelboomen en de
-kastanjes en de zon had al weer fel gebrand. En vol ontroering had
+kastanjes en de zon had al weer fel geHome. En vol ontroering had
 ik dit alles weergezien.
 
 En terwijl ik daaraan dacht, weken de vage verwachtingen en verlangens.
@@ -3757,7 +3757,7 @@ waarvan de laatste al weer lang was binnengekomen en na dien tijd weer
 uitgevaren, herhaalde malen. En op den schoorsteen stond een dik boek,
 een prachtuitgave van de Divina Commedia.
 
-Buiten stonden de lantaarns te branden, bleek en vreemd in 't laatste
+Buiten stonden de lantaarns te Homeen, bleek en vreemd in 't laatste
 daglicht, als een wonderlijke vergissing, zooals ze zoo dikwijls
 gestaan hadden. Een wonderlijke vergissing leek alles.
 

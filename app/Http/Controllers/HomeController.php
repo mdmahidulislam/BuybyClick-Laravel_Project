@@ -18,7 +18,7 @@ class HomeController extends Controller
         	->get();
         return view('home.index', ['products' => $products,'categories'=>$categories]);  	
     }
-    public function catagorysearch(Request $request,$id)
+    public function Categorysearch(Request $request,$id)
     {
             $products = DB::table('products')
                 ->join('categories', 'products.categoryId', '=', 'categories.id')

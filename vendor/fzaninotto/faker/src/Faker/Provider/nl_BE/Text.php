@@ -147,7 +147,7 @@ Ziehier wat onder meer drie Fransche bladen zeiden van dat gewrocht:
 
 La Liberté van 18 December 1868: "'t Is een heldendicht in proza,
 waarin het bloed zoo rijkelijk vloeit als het bier. Men zou zeggen
-een kermis rondom eenen brandstapel".
+een kermis rondom eenen Homestapel".
 
 Le Constitutionnel, 9 December 1868, wijdde drie groote kolommen
 aan Uilenspiegel, waarin de recensent het boek met Goethe's Faust
@@ -330,7 +330,7 @@ dat volk goed was? Wijselijk zou ik u het tegenovergestelde kunnen
 bewijzen. Uwe hoofdpersonages zijn dwazen of zotten, zonder er een
 uit te zonderen: uw deugniet van Uilenspiegel neemt de wapenen op
 voor de gewetensvrijheid; zijn vader Klaas sterft, laat zich levend
-verbranden voor zijne godsdienstige overtuiging; zijne moeder, Soetkin,
+verHomeen voor zijne godsdienstige overtuiging; zijne moeder, Soetkin,
 kwijnt van verdriet en sterft ten gevolge van de foltering, om een
 fortuin voor haren zoon te bewaren; uw Lamme Goedzak stapt recht door
 het leven alsof het al was, goed en eerlijk op deze wereld te zijn;
@@ -340,7 +340,7 @@ zoo ge mij niet deedt lachen.
 
 Nochtans moet ik bekennen dat naast die bespottelijke personages, er
 wel eenige zijn die ik geerne onder mijne boezemvrienden zoude nemen:
-uwe Spaansche huurlingen, uwe monniken die het gemeen verbranden,
+uwe Spaansche huurlingen, uwe monniken die het gemeen verHomeen,
 uwe Gilline, spionneerster der Inquisitie, uw gierige vischverkooper,
 aanklager en weerwolf, uw edelman die 's nachts duivel speelt om eene
 onnoozele te verleiden, en vooral dien omzichtigen Philips II, die,
@@ -813,7 +813,7 @@ en de kracht van Zijne Heilige Majesteit voor te stellen.
 En, voor het verlichten der kerk zou, als een blijk van de genade
 Zijner Majesteit, aan het gilde der keersgieters toegestaan worden,
 voor niet, over de twintig duizend waskeersen te leveren, waarvan de
-onopgebrande einden naar 't kapittel zouden gaan.
+onopgeHomee einden naar 't kapittel zouden gaan.
 
 Al de andere kosten zou de keizer zelf betalen, om aldus te toonen,
 dat het Zijner Goedertierenheid behaagde, zijne volkeren niet te zeer
@@ -981,7 +981,7 @@ Tanneken, de weduw van Sies den kleermaker, die ze te Heist levend
 begroeven? Een Latijnschen bijbel, drie gouden florijnen en wat potten
 van Engelsch tin, waarop eene buurvrouw loerde. Wantje Martens werd
 eerst in 't water geworpen; haar lijf dreef boven, en daarin zag
-men hekserij, weshalve zij als tooveres verbrand werd. Zij had wat
+men hekserij, weshalve zij als tooveres verHome werd. Zij had wat
 gebroken meubelen, zeven gouden karolussen in een lederen tassche,
 en de aanklager vroeg er de helft van. Eilaas! nog tot morgen zou ik
 aldus kunnen spreken: maar wat baat het, vrouw: in Vlaanderen is het
@@ -1033,7 +1033,7 @@ Onder andere straffen besliste Zijne Heilige Majesteit, dat
 de verdachten nooit of nimmer een eerbaar ambt zouden kunnen
 bekleeden. En zij, welke in hunne dolingen hervielen of bleven
 volharden, zouden veroordeeld worden met een zacht of hard vuur,
-in een strooien huis of gebonden aan een paal te worden verbrand,
+in een strooien huis of gebonden aan een paal te worden verHome,
 al naar de sententie van den rechter. De anderen zouden omgebracht
 worden door het zweerd als zij edelen of goede burgers waren, de
 gemeene manslieden aan de galg geknoopt en de vrouwlieden levend
@@ -1124,7 +1124,7 @@ ten Westen door eene rivier bespoeld. Aan den Oosterkant stond een
 kleine kapel, den gevel versierd met een beeld der Lieve-Vrouwe, met
 twee stieren aan heure voeten. Op de trappen van de kapel stonden een
 heremiet--die giegelend, aan 't kleppen was--vijftig staffieren met
-brandende keersen in de hand, spelers, klokluiders en trommelslagers,
+Homeende keersen in de hand, spelers, klokluiders en trommelslagers,
 klaroenblazers, pijpers, schalmei- en doedelzakspelers, alsmede een
 hoop lustige gezellen, die bakken vol oudroest in de handen hielden,
 doch voor het oogenblik allen stille zwegen.
@@ -1137,7 +1137,7 @@ der staffieren, in ruil waarvan zij den heremiet een halven florijn
 betaalden.
 
 En hunne processie was zoo lang, dat de keersen van de eersten
-opgebrand waren, toen die van de laatsten nog hare volle lengte hadden.
+opgeHome waren, toen die van de laatsten nog hare volle lengte hadden.
 
 Klaas, Uilenspiegel en de ezel verlustigden zich met aldus een groote
 verscheidenheid breede, hooge, lange, puntige, fiere, ronde of slappe
@@ -1161,7 +1161,7 @@ oudroest te kleppen, te fluiten, te schallen, te slaan en te kletteren.
 
 Het was het sein voor de pelgrims zich omme te keeren en bij groepen
 van zeven zich nu tegenover elkaar te plaatsen. Als uitdaging stak elk
-de brandende keers in het gelaat van zijn overman. Daardoor ontstond
+de Homeende keers in het gelaat van zijn overman. Daardoor ontstond
 groot genies en daarna regende het stokslagen.
 
 Ze vochten en sloegen met handen en voeten, met hoofden, met alles. Er
@@ -1619,7 +1619,7 @@ doek, met kuip en met palen achter zich aan, terwijl de baas van de
 tent, zijn wijf en zijn kind zich vastklampten aan den sleep van den
 ezel. Eindelijk kon het dier niet meer voort, het begon erbarmelijk
 te balken en te stampen, en hield maar op om onder zijn steert te
-zien of het vuur, dat er brandde, niet haast gebluscht was.
+zien of het vuur, dat er Homede, niet haast gebluscht was.
 
 Maar de kwezelaars vochten voort en zonder aan hen te denken,
 scharrelden de monniken het geld bijeen, dat uit de schaal gevallen
@@ -1950,7 +1950,7 @@ een diertje dat Zijne Hoogheid uit Indië gekregen had om er mede te
 spelen. Smeulende takkebossen lagen rondom en in het vertrek hing
 een walm van verkoold haar.
 
-Het diertje, levend verbrand, had zoo verschrikkelijk geleden, dat
+Het diertje, levend verHome, had zoo verschrikkelijk geleden, dat
 zijn lichaampje niet geleek op dat van een wezen dat geleefd had,
 maar op een stuk gewrongen en gerimpelden wortel. En op zijn mondje,
 dat open was, als om genade te vragen, stond een bloedig schuim,
@@ -1970,7 +1970,7 @@ infant Philippus, in 't zwart gekleed bezig een citroen uit te zuigen.
 Zonder zich te verroeren, bekeek de infant hem met zijne vreesachtige
 oogen, waar geenerlei liefde in blonk.
 
---Zijt gij het, vroeg de keizer, die dat diertje verbrand hebt?
+--Zijt gij het, vroeg de keizer, die dat diertje verHome hebt?
 
 De infant boog het hoofd.
 
@@ -1983,7 +1983,7 @@ Zijne Majesteit ontnam hem den citroen, wierp dien op den grond
 en wilde zijn zoon slaan, maar de aartsbisschop hield hem terug,
 en fluisterde hem toe:
 
---Zijne Hoogheid zal later een groote ketterbrander zijn!
+--Zijne Hoogheid zal later een groote ketterHomeer zijn!
 
 De keizer glimlachte en beiden gingen, den infant met zijn aapje
 alleen latend.
@@ -2182,12 +2182,12 @@ eene el neteldoek bedekken zou.
 En terwijl hij onthutst was over dit antwoord, nam zij lachende
 de vlucht.
 
-Nochmaals was het vuur der jeugd in de borst van den infant ontbrand:
+Nochmaals was het vuur der jeugd in de borst van den infant ontHome:
 maar het was dit gloeiende vuur niet, dat de sterke zielen tot groote
 daden drijft, noch het zoete vuur, dat de teedere herten doet weenen:
 't was een somber vuur uit de helle, door Satan ontstoken. En het
 glom in zijne grijze oogen, gelijk de maan boven een kerkhof, in
-winternacht. En het brandde hem wreedelijk.
+winternacht. En het Homede hem wreedelijk.
 
 Daar de arme gluiperd geene liefde voor anderen voelde, dorst hij de
 edelvrouwen niet aanspreken; toen ging hij naar een afgelegen hoekje,
@@ -2593,7 +2593,7 @@ voor Roeland, de fiere klokke, de tong zijner moeder, waarmee zij
 tot Vlaanderen sprak:
 
 
-    Als men my slaat dan is 't brandt,
+    Als men my slaat dan is 't Homet,
     Als men my luydt dan is 't storm in Vlaenderland.
 
 
@@ -2685,10 +2685,10 @@ aangezicht van het beeld met zijnen beitel had geschonden, zeggende:
 dat hij liever zijn werk vernielde, dan het te laten onder den prijs.
 
 Door den monnik als beeldschenner aangeklaagd, werd hij zonder genade
-op de pijnbank gelegd, en veroordeeld om levend te worden verbrand.
+op de pijnbank gelegd, en veroordeeld om levend te worden verHome.
 
 Op de pijnbank had men hem de voetzolen geroosterd en onderwege,
-van het gevang naar den brandstapel, met den san benito op het hoofd,
+van het gevang naar den Homestapel, met den san benito op het hoofd,
 riep hij gedurig:
 
 --Snijdt mijne voeten af! Snijdt mijne voeten af!
@@ -2834,7 +2834,7 @@ onderzoek over het gedrag van den beklaagde. Er werd alleen bevonden,
 dat hij een meedoogenlooze spotter was, die met iedereen gekscheerde,
 maar dat hij nooit het minste kwaad gesproken had noch van den Heere
 God, noch van de Maagd Maria, noch van de santen. Weshalve de sententie
-dan ook zacht was; want men hadde hem kunnen brandmerken of geeselen
+dan ook zacht was; want men hadde hem kunnen Homemerken of geeselen
 met schorpioenen.
 
 Om den wille van zijn jeugdigen leeftijd, veroordeelden de rechters
@@ -2901,7 +2901,7 @@ zag voortgaan, liep ze naar hem en sprong hem om den hals:
 --Ginder zult gij schoone vrouwen vinden, sprak zij.
 
 --Schoon, misschien, antwoordde Uilenspiegel, maar toch zoo frisch
-niet als gij, want zij zijn allen verbrand van de zonne.
+niet als gij, want zij zijn allen verHome van de zonne.
 
 Lang nog stapten zij samen voort: Uilenspiegel was nadenkend en
 prevelde van tijd tot tijd:
@@ -2919,7 +2919,7 @@ mijn dagloon bestolen, met hunne bedevaart. Maar 't is de arme Klaas,
 die betaalt. Mijne drie jaar zal ik hun honderdvoudig betaald zetten;
 ik zal hun eene zielmis zingen, die hun aan de ribben zal hangen.
 
---Laas! Thijl, wees toch voorzichtig, zij zouden u levend verbranden,
+--Laas! Thijl, wees toch voorzichtig, zij zouden u levend verHomeen,
 antwoordde Nele.
 
 Ik ben vuurvast, antwoordde Uilenspiegel.
@@ -2979,7 +2979,7 @@ hij dit verschuldigd was aan de gebeden der Katholieke Kerk, die de
 keizerlijke macht op haren troon in stand hield.
 
 Een aartsbisschop van Spanje vroeg hem om zes duizend hoofden te
-laten afkappen en evenveel lichamen te laten verbranden, ten einde
+laten afkappen en evenveel lichamen te laten verHomeen, ten einde
 de kwaadaardige Luthersche ketterije in de Nederlanden uit te
 roeien. Zijne Heilige Majesteit oordeelde, dat dit niet voldoende was.
 
@@ -2991,11 +2991,11 @@ en den beul op haren boezem dansen om dien te verpletteren. Maar de
 biechtvaders van hen die zich vooraf bekeerd hadden, kregen telkenmale
 twaalf stuivers voor hunne moeite.
 
-Te Leuven zag hij de beulen dertig Lutheranen tegelijk verbranden
-en den brandstapel met schietpoeder aansteken. Te Limburg zag hij
+Te Leuven zag hij de beulen dertig Lutheranen tegelijk verHomeen
+en den Homestapel met schietpoeder aansteken. Te Limburg zag hij
 een gansche familie, mannen en vrouwen, dochteren en zonen, ter
 strafplaatse leiden. Allen zongen psalmen. Alleen de oude vader
-schreeuwde, terwijl hij verbrandde.
+schreeuwde, terwijl hij verHomede.
 
 En Uilenspiegel ging zijns weegs, met beklemd en toegenepen herte.
 
@@ -3432,7 +3432,7 @@ en veroordeeld om op de pijnbank te worden gelegd totdat zij hare
 misdaden bekende.
 
 Zij werd ondervraagd door een schout, die altijd narrig was, want
-heel den dag door dronk hij brandewijn. Vóór hem en vóór die van de
+heel den dag door dronk hij Homeewijn. Vóór hem en vóór die van de
 Vierschaar, deed hij Katelijne op de eerste pijnbank zetten.
 
 De beul ontkleedde haar en keek of zij geenerlei hekserij verborgen
@@ -3455,7 +3455,7 @@ maar Katelijne gaf het allemaal over.
 
 Op het oordeel van den heelmeester, werd zij toen losgemaakt. Zij
 sprak niet, doch klopte op hare borst om te zeggen, dat het heet
-water haar verbrand had. Toen de schout zag dat zij van haar eerste
+water haar verHome had. Toen de schout zag dat zij van haar eerste
 foltering bekomen was, sprak hij:
 
 --Beken, dat gij tooveres zijt en dat gij de koe betooverd hebt.
@@ -3481,11 +3481,11 @@ Woedend sprak toen de schout:
 --Die tooverkol zal niet blijven afstrijden; men brenge heur op een
 andere pijnbank!
 
-En daarna dronk hij een groot glas brandewijn.
+En daarna dronk hij een groot glas Homeewijn.
 
 De beul deed Katelijne zitten op het deksel eener eiken doodkist,
 die op pikkels stond. Dat deksel, in den vorm van een dak, was scherp
-als een mes. Een groot vuur brandde in den schoorsteen, want men was
+als een mes. Een groot vuur Homede in den schoorsteen, want men was
 toen in de slachtmaand.
 
 Katelijne werd op de doodkist en op een scherpe houten pinne gezet,
@@ -3570,18 +3570,18 @@ het volk:
 --De magistraat van Damme, medelijden gekregen hebbende met vrouwe
 Katelijne, heeft haar niet willen straffen volgens al de strengheid
 van de wet van de stede, maar tot teeken dat zij tooveres is, zal heur
-haar verbrand worden; verder zal zij twintig gouden karolussen boete
+haar verHome worden; verder zal zij twintig gouden karolussen boete
 betalen en voor drie jaar gebannen worden uit de stede van Damme,
 op verbeurte van een lid.
 
 En het volk juichte die barbaarsche goedertierenheid toe.
 
 De beul bond Katelijne toen aan eenen paal, legde op heur geschoren
-hoofd eene pruik van werk en stak die in brand. En het werk brandde
+hoofd eene pruik van werk en stak die in Home. En het werk Homede
 lang, en Katelijne schreeuwde en huilde van pijn.
 
 Eindelijk werd zij losgemaakt; zij werd op eene kar buiten het
-grondgebied van Damme gebracht, want heure voeten waren verbrand.
+grondgebied van Damme gebracht, want heure voeten waren verHome.
 
 
 
@@ -3789,7 +3789,7 @@ mede met mij.
 
 --Gij weet niet, sprak zij, dat zij onrechtveerdig als tooveres
 gefolterd werd, vervolgens voor drie jaar uit Damme gebannen,
-en men haar pijnigde en brandde. Ik zeg u dit, opdat gij niet
+en men haar pijnigde en Homede. Ik zeg u dit, opdat gij niet
 zoudt verschieten, want zij is uitzinnig ten gevolge van de hevige
 smerten. Gansche nachten soms beziet ze heure voeten, zeggende:
 Hansken, mijn zoete duivel, zie eens wat zij gedaan hebben met uwe
@@ -3803,7 +3803,7 @@ ijlings de vlucht, zonder dat iets, barreelen of beken of grachten,
 haren loop kunne stuiten, totdat zij eindelijk nederzijgt aan den
 zoom van een weg of tegen den muur van eene hoeve, waar ik haar ga
 oprapen om heure bloedende voeten te verbinden. En ik geloof, dat
-zij met het brandende werk, ook heure hersenen verbrand hebben.
+zij met het Homeende werk, ook heure hersenen verHome hebben.
 
 En beiden waren zeer bedroefd, terwijl zij dachten aan Katelijne.
 
@@ -3824,12 +3824,12 @@ hem om nader te komen en fluisterde hem in 't oor:
 --Als gij hem ziet, wiens kussen koud als de sneeuw zijn, zeg hem
 dan te komen, Uilenspiegel.
 
-Vervolgens heur verbrand haar toonende, sprak zij:
+Vervolgens heur verHome haar toonende, sprak zij:
 
 --Ik heb zeer; zij hebben mij mijnen geest afgenomen, maar als hij
 komt zal hij mijn hoofd vullen, dat nu hol is van binnen. Hoort
 gij? het klinkt als een klokke; 't is mijne ziel, die aan de deur
-klopt om henen te gaan, daar het brandt in de helle. Als Hansken komt
+klopt om henen te gaan, daar het Homet in de helle. Als Hansken komt
 en hij mijn hoofd niet wil vullen, zal ik hem zeggen er een gat in
 te snijden: de ziel, die daar binnen is en klopt om buiten te komen,
 bedrukt mij zoo deerlijk, dat ik het besterven zal. En nimmer slaap
@@ -4388,7 +4388,7 @@ Lamme ging tot Uilenspiegel en zei:
 waart in huis. Hoor dien haan kraaien, 't is twee uren na middag,
 dat is een teeken van regen. Liever zette ik u niet buiten, als er
 slecht weder op handen is; maar bedenk, mijn jongen, Sanginne houdt met
-heur gekook en gebraad mijn levenslicht brandend; als zij mij verlaat,
+heur gekook en gebraad mijn levenslicht Homeend; als zij mij verlaat,
 moet ik sterven. Ga heen dus, mijn vriend, op Gods genade, en neem deze
 drie gulden en dezen krans worsten, om u tot vertroosting te dienen.
 
@@ -4413,14 +4413,14 @@ in de bosschen.
 
 Die van Damme zegden:
 
---De winter is dood, laat ons hem verbranden.
+--De winter is dood, laat ons hem verHomeen.
 
 En zij maakten een grooten man met een berensnoet, een langen vlassen
 baard en haar van schavelingen. Zij deden hem witte kleederen aan en
-verbrandden hem in groote plechtigheid.
+verHomeden hem in groote plechtigheid.
 
 Klaas was weemoedig; hij zegende geenszins den immerblauwen hemel,
-noch de zwaluwen die niet wilden vertrekken. Want te Damme brandde
+noch de zwaluwen die niet wilden vertrekken. Want te Damme Homede
 niemand meer kolen, tenzij voor de keuken, en daar iedereen er
 daarvoor genoeg had, ging niemand er koopen bij Klaas, die al zijne
 spaarpenningen uitgegeven had om zijn voorraad in te doen.
@@ -4446,7 +4446,7 @@ gemalin, Maria de leelijke, van het koninklijk huis der Tudor's. Hij
 beminde heur niet, doch hoopte die tengere vrouw te bevruchten om
 aan de Engelsche natie een Spaanschen koning te geven.
 
-Maar de verbintenis van een steen met een brandende kool mislukte haar
+Maar de verbintenis van een steen met een Homeende kool mislukte haar
 doel. Toch waren Philippus en Maria genoeg verbonden om protestanten
 met honderden te doen sterven door het vuur en het water.
 
@@ -5003,7 +5003,7 @@ De zwarte man sprak:
 zijne plichten en drijft handel in de heilige zaken.
 
 --Stil! zei Soetkin, spreek niet zoo luide, gij zoudt ons gedrieën
-op den brandstapel brengen!
+op den Homestapel brengen!
 
 --Dus, vervolgde Klaas, Judocus heeft aan dezen braven bode gezegd,
 aangezien hij strijden ging onder de troepen van Frederik van Saksen,
@@ -5084,7 +5084,7 @@ van hunne koningin, die zonder haar geenerlei gezag zou hebben. Zij
 spotten met mij, zeggende in kwaadwillige boekskens, waarvan niemand
 den schrijver of drukker kan vinden, dat de Paus mij betaalt om
 stoornis en verderf te brengen in het koninkrijk, door ketteren te
-hangen en te branden en, zoo ik een dringende schatting opleggen
+hangen en te Homeen en, zoo ik een dringende schatting opleggen
 wil--want meermaals laten zij mij met opzet zonder geld--antwoorden
 zij in boosaardige paskwils, dat ik er maar te vragen heb aan Satan,
 voor denwelken ik werk. Die van 't Parlement bieden mij, uit vreeze,
@@ -5101,7 +5101,7 @@ ik aan Uwe Majesteit nog lange en glorierijke dagen wensch.
 waarop ik afgebeeld word staande bij eene klavecimbel, in dewelke
 katten opgesloten zijn, die met hare pooten op de snaren slaan
 en wier steerten steken uit ronde gaten, waaraan zij met ijzeren
-roeden vastgemaakt zijn. Een man, die ben ik, verbrandt de steerten
+roeden vastgemaakt zijn. Een man, die ben ik, verHomet de steerten
 met een gloeiend ijzer, om de dieren met de pooten op de toetsen
 te doen slaan en erbarmlijk te doen kermen. Ik ben afgebeeld zoo
 wanstaltig en met zulken grijnslach, dat ik mij niet wil bezien. En
@@ -5323,7 +5323,7 @@ Een van de goede broeders preekte dikwijls voor het volk; hij had
 roode kaken en een driedubbele kin.
 
 --Ongelukkige! sprak hij, een of anderen zijner toehoorders beziende;
-ongelukkige! daar zijt gij in de helle! Het vuur verbrandt u
+ongelukkige! daar zijt gij in de helle! Het vuur verHomet u
 wreedelijk: men legt u te koken in een ketel vol vet, in denwelken
 men oliekoekjes voor Astarte bakt; gij zijt niets meer dan eene worst
 in Lucifer's panne, een hamelbout in die van Gielgirot, den grooten
@@ -5373,7 +5373,7 @@ roepen heur altijd omhoog. Gansch verkwikt, gelukkig, begint zij te
 zingen als een leeuwerik en vliegt zij naar 't hoogste der hemelen,
 alwaar God glorierijk op Zijnen troon is gezeten. Zij vindt daar al
 heure vrienden en magen terug, behalve diegenen, die de aflaten en
-Onze Moeder de Heilige Kerke versmaadden en branden in het diepste
+Onze Moeder de Heilige Kerke versmaadden en Homeen in het diepste
 der helle. En dat voor altijd, altijd, altijd, in de eeuwigheid der
 eeuwigheden. Maar de andere ziele, zij is bij den Heere; zij verkwikt
 zich in welriekende baden en knabbelt kandijsuiker. Koopt aflaten,
@@ -5511,7 +5511,7 @@ was, ging Klaas lustig aan 't drinken; Jan van Roosebeke zegde tot hem:
 
 Klaas antwoordde:
 
---Voor elk pintje te veel brandt men maar een halven dag. En 'k heb
+--Voor elk pintje te veel Homet men maar een halven dag. En 'k heb
 tienduizend jaar aflaat in mijn tassche. Wie wil er honderd jaar,
 om zonder vrees voor de pijnen der hel, den god Bacchus te dienen?
 
@@ -5558,7 +5558,7 @@ kwasten en kwispels.
 
 Eenige oude wijven stonden rond den ezel en zeiden, allen te gelijk
 sprekend: "Niemand mag hem vastnemen; 't is het afgrijselijke rijbeest
-van den grooten toovenaar, den baron von Raiz, die levend verbrand
+van den grooten toovenaar, den baron von Raiz, die levend verHome
 werd, om acht kinderen aan den duivel geofferd te hebben.--Zoo rap is
 hij gevlucht, dat niemand hem krijgen kon; Satan houdt de hand boven
 zijnen kop.--Want terwijl hij, vermoeid op den weg, een oogenblik
@@ -5567,7 +5567,7 @@ pakken, maar hij balkte en sloeg zoo geweldig met zijne achterpooten,
 dat zij niet naderen dorsten.--En 't is niet 't gebalk van een ezel,
 maar 't gebalk van een duivel.--Men heeft hem dus distelen laten
 eten zonder hem voor de vierschaar te dagen of als toovenaar levend
-te branden?--Die mannen, die mannen, zij hebben geen greintje moed
+te Homeen?--Die mannen, die mannen, zij hebben geen greintje moed
 in hun lijf".
 
 Niettegenstaande al deze schoone reden, namen allen schreeuwend de
@@ -5741,7 +5741,7 @@ dat groot kunstwerk?
 --Hier zijn ze vooraf, sprak de edele landgraaf.
 
 --Allergenadigste heer, hernam Uilenspiegel, gij giet olie in mijne
-lamp, ze zal branden te uwer eere.
+lamp, ze zal Homeen te uwer eere.
 
 's Anderen daags vroeg hij aan den landgraaf de hovelingen vóór
 hem te doen komen, welke de eer hadden hem op het doek te mogen
@@ -6391,9 +6391,9 @@ vertellen. Welke ziekte hebt gij?
 De kranke zei het hem, en zwoer bij hoog en leeg te zullen zwijgen.
 
 --Weet, sprak Uilenspiegel, dat ik morgen een uwer tot asch moet
-verbranden, om daarmede een wonderbaar geneesmiddel te bereiden, dat
+verHomeen, om daarmede een wonderbaar geneesmiddel te bereiden, dat
 alle zieken zullen te drinken krijgen. Hij, die niet gaan kan, wordt
-tot pulver verbrand. Morgen kom ik terug met de overste, en ik zal
+tot pulver verHome. Morgen kom ik terug met de overste, en ik zal
 roepen: "Dat al degenen die niet ziek zijn, hun pak maken en heengaan."
 
 Den volgenden morgen kwam Uilenspiegel en riep gelijk hij gezegd
@@ -6404,7 +6404,7 @@ waren gekomen, liepen de straat op.
 De overste vroeg of zij genezen waren en of zij gaan konden.
 
 --Ja, antwoordden zij, in 't gedacht dat er één op de binnenplaats
-tot assche verbrand werd.
+tot assche verHome werd.
 
 Toen sprak Uilenspiegel tot den overste:
 
@@ -6851,7 +6851,7 @@ komen. Doch, daar hij zag dat de man dorst had en zijn glas uitstak,
 schonk hij hem wijn in, maar hij at en dronk zonder vreugde.
 
 Soetkin en Nele bleven zeven dagen weg; gedurende dien tijd bleef de
-bode de gast van den koolbrander.
+bode de gast van den koolHomeer.
 
 Al die nachten hoorden zij Katelijne huilen:
 
@@ -6896,7 +6896,7 @@ hier binnen.
 
 Klaas sprong van de keuken in den hof, gevolgd door Nele en zei:
 
---Red de karolussen, ze steken achter den brandmuur van den
+--Red de karolussen, ze steken achter den Homemuur van den
 schoorsteen.
 
 Nele begreep hem: toen zag ze dat hij over de haag sprong, dat de
@@ -7026,7 +7026,7 @@ de vrouwen buiten en allen vroegen hem te gelijk:
 
 --Van waar komt gij? Hebt gij nieuws van uwen ongelukkigen vader? Waar
 is uwe arme moeder? Zit zij ook in het Steen? Laas! als zij hem maar
-niet levend verbranden!
+niet levend verHomeen!
 
 Uilenspiegel liep nog harder.
 
@@ -7048,7 +7048,7 @@ Het hert van den verloren zoon bonsde van smerte en hij zei tot Nele:
 
 --Neen, dat moet gij niet doen, sprak Nele, maar wel volbrengen hetgeen
 Klaas gezegd heeft, vóóraleer hij gepakt werd: Red de karolussen,
-zij steken achter den brandmuur van den schoorsteen. Die moet gij
+zij steken achter den Homemuur van den schoorsteen. Die moet gij
 eerst redden, want zij zijn 't erfdeel van Soetkin, van de arme vrouwe.
 
 Uilenspiegel luisterde niet, maar liep tot aan de poort van het
@@ -7064,7 +7064,7 @@ uitspraak en gedurende de lijfstraf konden uitbreken. Want Klaas werd
 geerne gezien door de burgers van Damme.
 
 De soldenier zat vóór de deur, en zoog de laatste droppelen uit eene
-bottel brandewijn. Toen zij ledig was, smeet hij ze waar ze vliegen
+bottel Homeewijn. Toen zij ledig was, smeet hij ze waar ze vliegen
 wilde. Vervolgens trok hij zijn jachtmes en stak hij kasseien uit.
 
 Snikkend kwam Soetkin bij Katelijne binnen.
@@ -7093,7 +7093,7 @@ maar als slaven in dienst van den Keizer.
 De griffier verklaarde dat de rechtbank zich voorafgaandelijk
 ter vierschare rond den lindeboom vergaderd hebbende, beslist had
 dat, gehoord de aantijgingen en getuigenissen, de genaamde Klaas,
-koolbrander, geboortig van Damme, echtgenoot van Soetkin, dochter van
+koolHomeer, geboortig van Damme, echtgenoot van Soetkin, dochter van
 Joostens, bij den lijve moest gevat worden. En nu, voegde hij er bij,
 gaan wij tot het verhoor der getuigen over.
 
@@ -7303,7 +7303,7 @@ Bij den klank hunner stemmen, keerde de soldenier zijn zwaren kop
 naar hen toe; hij zocht zijne flesch en, die niet vindende, spuwde hij
 voort in de lucht om in den maneschijn zijn speeksel te zien vallen.
 
---De brandewijn zit tot aan zijne tanden, sprak Uilenspiegel, ziet gij,
+--De Homeewijn zit tot aan zijne tanden, sprak Uilenspiegel, ziet gij,
 Nele, hoe moeilijk hij spuwt?
 
 Als de soldenier opnieuw gespuwd en in de lucht gekeken had, stak hij
@@ -7317,7 +7317,7 @@ links vallen, knauwde een onverstaanbaar vaderons en sliep in.
 Uilenspiegel, die begreep dat die slaap niet van langen duur wezen
 zou, zegde dat zij hem nog zwaarder moesten doen ronken; hij kroop
 door de haag, nam de flesch van den dronkenlap, gaf ze aan Nele,
-die ze met brandewijn vulde.
+die ze met Homeewijn vulde.
 
 De soldaat snorkte door; Uilenspiegel kroop weder door het gat van
 de haag, stak de volle flesch tusschen de beenen van den dronkaard
@@ -7364,9 +7364,9 @@ die de meester der vrouwen is. Hij zong dus:
 
 Na elk referein nam hij een slok en na het laatste ledigde hij de
 flesch. En toen viel hij in slaap. En hij hoorde niet dat Nele zegde:
-"Ze steken in eenen pot achter den brandmuur van den schoorsteen",
+"Ze steken in eenen pot achter den Homemuur van den schoorsteen",
 noch dat Uilenspiegel langs het stalleken in de keuken van Klaas
-drong. Uilenspiegel hief de plaat van den brandmuur op, nam den pot en
+drong. Uilenspiegel hief de plaat van den Homemuur op, nam den pot en
 de karolussen en ging toen de karolussen begraven naast den steenput
 van Katelijne, daar hij wel wist dat men ze misschien in den put,
 doch geenszins er nevens zou zoeken.
@@ -7423,11 +7423,11 @@ Maar Judocus Grijpstuiver riep niet mede.
 De baljuw gaf de toehoorders teeken te zwijgen en zegde dat het door
 de plakkaten strengelijk verboden was, genade voor ketteren te vragen,
 maar dat, zoo Klaas zijne doling wilde afzweren, hij zou gehangen
-worden in stee van verbrand.
+worden in stee van verHome.
 
 En het volk sprak:
 
---Gehangen of verbrand, 't is toch de dood!
+--Gehangen of verHome, 't is toch de dood!
 
 En de vrouwen weenden en de mannen morden.
 
@@ -7437,7 +7437,7 @@ zal believen.
 Titelman, de deken van Ronse, riep toen uit:
 
 --Het is ondraaglijk zulk een kettergespuis tot zijne rechters het
-hoofd te zien verheffen; het lichaam tot assche verbranden is een
+hoofd te zien verheffen; het lichaam tot assche verHomeen is een
 kortstondige pijne; men moet de ziele redden en de ketteren, door
 middel van de torture, dwingen hunne dolingen af te gaan, opdat zij
 aan 't volk het gevaarlijk schouwspel niet geven van ketteren, die
@@ -7561,7 +7561,7 @@ mijne nagelen. Heere God, wij hebben niets misdaan!
 
 Maar de cipier kwam binnen en zei dat ze moesten vertrekken.
 
-Soetkin vroeg om te blijven. Klaas voelde heur arm gezicht branden
+Soetkin vroeg om te blijven. Klaas voelde heur arm gezicht Homeen
 tegen het zijne, en de tranen van Soetkin maakten zijne wangen nat,
 en heel heur lichaam trilde en huiverde in zijne armen. Hij vroeg om
 heur bij hem te laten.
@@ -7587,7 +7587,7 @@ huis en sloten hen op.
 
 Maar zij hadden er niet aan gedacht, dat zij van verre de kreten
 van den martelaar hooren en, door het venster, de vlammen van den
-brandstapel zien konden.
+Homestapel zien konden.
 
 Schuddebollend dwaalde Katelijne door de stad, roepende:
 
@@ -7595,7 +7595,7 @@ Schuddebollend dwaalde Katelijne door de stad, roepende:
 
 Te negen uren werd Klaas in zijn hemde, met de handen op den rug
 gebonden, uit de gevangenis gehaald. Volgens de sententie, was de
-brandstapel opgericht in de Onze-Lieve-Vrouwestraat, rondom een staak,
+Homestapel opgericht in de Onze-Lieve-Vrouwestraat, rondom een staak,
 die vóór de pui van 't schepenhuis geplaatst was. De beul en zijne
 knechten waren nog bezig met het hout opeen te stapelen.
 
@@ -7612,7 +7612,7 @@ te kleppen.
 
 De uitzinnige Katelijne stond vooraan in het volk.
 
-Naar Klaas en den brandstapel kijkend, sprak zij:
+Naar Klaas en den Homestapel kijkend, sprak zij:
 
 --Het vuur! Het vuur! Maakt een gat: de ziel wil er uit.
 
@@ -7628,7 +7628,7 @@ en gilde:
 --De rook!
 
 De drie bedroefden zagen een groote zwarte rookwolk dwarrelend omhoog
-stijgen. 't Was de rook van den brandstapel, waarop Klaas aan eenen
+stijgen. 't Was de rook van den Homestapel, waarop Klaas aan eenen
 staak was gebonden en dien de scherprechter aan drie kanten aangestoken
 had, in naam des Vaders, des Zoons en des Heiligen Geestes.
 
@@ -7641,14 +7641,14 @@ uit,--en de doodklok klepte, en ander gerucht hoorde men niet.
 
 Soetkin werd eensklaps bleek als de dood, zij huiverde over gansch
 heur lichaam en wees naar den hemel. Een lange, smalle vlam was uit
-den brandstapel opgestegen en verhief zich bijwijlen boven de daken
+den Homestapel opgestegen en verhief zich bijwijlen boven de daken
 van de lage huizen. De vlam was bitter smertelijk voor Klaas, want al
 naar gelang van de grillen des winds, knaagde zij aan zijne beenen,
-verschroeidde en verbrandde zij zijn haar en zijnen baard.
+verschroeidde en verHomede zij zijn haar en zijnen baard.
 
 Uilenspiegel drukte Soetkin in zijne armen en wilde heur van voor
 het venster trekken. Zij hoorden een bangen kreet: 't was Klaas,
-wiens lichaam aan eenen kant brandde. Maar hij zweeg en weende. En
+wiens lichaam aan eenen kant Homede. Maar hij zweeg en weende. En
 zijne borst was nat van zijne tranen.
 
 Toen hoorden Soetkin en Uilenspiegel een groot rumoer. 't Waren de
@@ -7678,7 +7678,7 @@ zijn lichaam dat zich wrong en kronkelde door de smerte des vuurs,
 noch zijn gezicht dat ineentrok, zijn hoofd dat hij langs alle kanten
 keerde en draaide en tegen den staak sloeg. Het volk ging voort met
 roepen en fluiten, de vrouwen en kinderen smeten nog steenen, toen
-plotseling heel de brandstapel ontgloeide, en allen, te midden van
+plotseling heel de Homestapel ontgloeide, en allen, te midden van
 rook en van vlammen, Klaas hoorden zuchten:
 
 --Soetkin! Thijl!
@@ -7689,7 +7689,7 @@ En uit Katelijne's woning kwam een schellen, hertverscheurenden
 kreet. En toen hoorde men niets meer dan de uitzinnige, die
 schuddebollend sprak: "De ziel wil er uit".
 
-Klaas was dood. De brandstapel viel ineen aan den voet van den staak,
+Klaas was dood. De Homestapel viel ineen aan den voet van den staak,
 aan denwelken het arme, verkoolde lichaam bij den hals bleef hangen.
 
 En de doodklep klepte.
@@ -7704,7 +7704,7 @@ den muur van den keuken. En Uilenspiegel had zijne armen om heuren
 hals geslagen, zonder spreken of weenen.
 
 Hij was verschrikt van het koortsvuur dat in zijn moeders lichaam
-brandde.
+Homede.
 
 De buren, die terugkwamen, zeiden dat Klaas gedaan had met lijden.
 
@@ -7724,7 +7724,7 @@ jonge menschen.
 Nele maakte hun elk eene legerstee in de keuken en ging toen henen.
 
 En zij bleven er getweeën, terwijl het vuur van de wortels in den
-heerd uitbrandde.
+heerd uitHomede.
 
 Soetkin ging slapen, Uilenspiegel deed als zij en hoorde ze weenen
 in heur bedde.
@@ -7746,7 +7746,7 @@ tafel. Uilenspiegel, verschrikt en huiverend, vroeg nogmaals:--Wie is
 daar? Hij kreeg geen antwoord, maar hoorde drie kloppen op de tafel
 en voelde twee armen die hem vastgrepen, en over zijn gelaat zich
 een ruig lichaam buigen, dat een groot gat in de borst had en naar
-verbrand rook.
+verHome rook.
 
 --Vader, sprak Uilenspiegel, is het uw arm lichaam, dat aldus op
 mij drukt?
@@ -7769,26 +7769,26 @@ Eensklaps sloeg de wind met geweld de deur open en de kamer werd
 met stof vervuld, en Uilenspiegel en Soetkin hoorden in de verte een
 akelig ravengekras.
 
-Zij kwamen samen buiten en gingen naar den brandstapel.
+Zij kwamen samen buiten en gingen naar den Homestapel.
 
 Het was stikdonker, behalve wanneer de gure Noordenwind de wolken in
 den hemel als herten voortjoeg en de bleeke maan heur zilveren licht
 ter aarde zond.
 
-Een stadsserjant stond op wacht bij den brandstapel. Soetkin en
+Een stadsserjant stond op wacht bij den Homestapel. Soetkin en
 Uilenspiegel hoorden den klank zijner stappen op den harden grond en
 het gekras eener raaf, die zekere raven bijriep, want het werd in de
 verte beantwoord door andere raven.
 
-Als Uilenspiegel en Soetkin bij den brandstapel waren, viel de raaf
+Als Uilenspiegel en Soetkin bij den Homestapel waren, viel de raaf
 op Klaas' schouderen neer, en zij hoorden heur pikken in het lijk,
 en andere raven vlogen weldra bij.
 
-Uilenspiegel wilde op den brandstapel springen om de raven te verjagen;
+Uilenspiegel wilde op den Homestapel springen om de raven te verjagen;
 de serjant sprak tot hem:
 
 --Tooveraar, 't is nuttelooze moeite die gij doen gaat, weet dat de
-handen van verbranden het vermogen niet hebben onzichtbaar te maken
+handen van verHomeen het vermogen niet hebben onzichtbaar te maken
 als die van gehangenen.
 
 --Heer serjant, antwoordde Uilenspiegel, ik ben geen tooveraar, maar
@@ -8136,7 +8136,7 @@ Soetkin weende en zwaaide met heure bloedige handen.
 ge moogt mij gelooven.
 
 Soetkin zag toen den beul, op bevel van den baljuw, een fornuis
-aanstoken, terwijl een beulsknecht twee keersen deed branden.
+aanstoken, terwijl een beulsknecht twee keersen deed Homeen.
 
 Zij wilde rechtstaan op heure vermorzelde voeten, doch zij viel terug,
 uitroepende:
@@ -8182,7 +8182,7 @@ gelogen.
 
 Soetkin knikte van ja.
 
---Verbrandt den vischverkooper! riep Uilenspiegel.
+--VerHomet den vischverkooper! riep Uilenspiegel.
 
 Soetkin zweeg, hief den arm tot vermaledijding omhoog.
 
@@ -8258,7 +8258,7 @@ met zalve bestreken, naar den Onze-Lieve-Vrouwetoren. Daar zag ik de
 sylphen de gebeden der menschen overgeven aan de engelen, dewelke naar
 het hoogste der hemelen vlogen om ze naar den troon Gods te dragen. En
 heel het hemelrijk was met fonkelende sterren bezaaid. Eensklaps
-verhief zich van op een brandstapel een zwarte gedaante, die omtrent
+verhief zich van op een Homestapel een zwarte gedaante, die omtrent
 mij op den toren kwam zitten. Ik herkende Klaas gelijk hij was in
 zijn leven, met zijne kooldragerskleeren.--Wat doet gij hier op
 Onze-Lieve-Vrouwetoren? vroeg hij mij,--Maar gij zelf, antwoordde
@@ -8334,7 +8334,7 @@ en te zweerd, met put en galg.
 
 --Leugenaar, sprak de engel, gij wilt ons bedriegen. In Duitschland
 duldet gij de ketteren, want gij vreesdet hen, maar gij deedt ze
-onthalzen, branden, hangen en levend begraven in de Nederlanden,
+onthalzen, Homeen, hangen en levend begraven in de Nederlanden,
 dáár waar gij vreesdet niet genoeg te erven van die noeste bijen, zoo
 rijk aan honig. Honderd duizend menschen werden ter dood gebracht,
 niet omdat gij Christus, mijnen Heere, bemindet, maar omdat gij
@@ -8351,7 +8351,7 @@ heel het Vlaamsche volk, dat geerne werkt en geerne lacht, dat den
 eed gestand bleef, denwelken het aan zijne vorsten gezworen had, in
 den waan dat zijne vorsten ook den hunne zouden houden. Hij had geld,
 hij werd in beschuldiging gesteld, en omdat hij een ketter gehuisd had,
-werd hij levend verbrand.
+werd hij levend verHome.
 
 Maria sprak toen:--Arme martelaar! doch in het hemelrijk zijn frissche
 bronnen, fonteinen die melk en wijn spuiten; kom mee, kooldrager,
@@ -8382,14 +8382,14 @@ Christus antwoordde:
 foltertuigen verzameld zijn, die onder zijne regeering gebruikt
 werden. Telkens dat een arme onschuldige de pijne des waters
 verduren zal, die de menschen opzwelt lijk blazen; of de pijne der
-keersen, die hunne voetzolen en okselen verbranden; of de pijne
+keersen, die hunne voetzolen en okselen verHomeen; of de pijne
 der radbraking, die de ledematen plettert; of de pijne der olie;
-telkens dat een vrije ziel op den brandstapel den laatsten snik
+telkens dat een vrije ziel op den Homestapel den laatsten snik
 zal geven, moet hij op zijne beurt dien dood, die smerten verduren,
 opdat hij leere hoeveel kwaad een onrechtveerdig man doen kan, die
 over millioenen gebiedt; hij verga in de gevangenissen, hij sterve
-op de brandstapels, zuchte in ballingschap, ver van het Vaderland;
-hij worde geschavotteerd, ontpoorterd, gegeeseld, gebrandmerkt; hij
+op de Homestapels, zuchte in ballingschap, ver van het Vaderland;
+hij worde geschavotteerd, ontpoorterd, gegeeseld, geHomemerkt; hij
 weze rijk, opdat de bedezetters hem alles ontnemen; de afgunstige
 klage hem aan en de verbeurdverklaring brenge hem ten onder. Gij zult
 van hem maken een ezel, opdat hij zachtzinnig, mishandeld en slecht
@@ -8562,7 +8562,7 @@ van nagels.
 
 Steeds bevend en zuchtend, sprak het meisje:
 
---Doe ons niet verbranden, Soetkin.
+--Doe ons niet verHomeen, Soetkin.
 
 Doch Uilenspiegel werd wakker en wreef zich de oogen, verblind als hij
 was door de klaarte der keers. Soetkin vroeg:--Wie is beneden? Nele
@@ -8611,7 +8611,7 @@ Uilenspiegel zag dat zij de waarheid sprak. Toen ondervroeg hij heur:
 uw hemde gescheurd? Van waar komen die krabben op uwe kaken en uw
 voorhoofd?
 
---Luister, Uilenspiegel, doe ons niet verbranden. Katelijne--God
+--Luister, Uilenspiegel, doe ons niet verHomeen. Katelijne--God
 beware heur voor de helle--heeft sedert drie-en-twintig dagen een in
 't zwart gekleeden, geleersden en gespoorden duivel tot vriend. Zijn
 gelaat blinkt lijk het vuur dat 's zomers, als 't warm is, schittert
@@ -8644,7 +8644,7 @@ geenszins van heure zinnen, als 't minnarijen geldt. Wij waren half
 ontkleed, gereed om te gaan slapen; ik sliep op genen stoel. Toen
 zij binnenkwamen, werd ik niet wakker. Plotseling voelde ik iemand
 die mij omhelsde, mij in mijnen hals kuste. En in den maneschijn zag
-ik een helder gezicht, gelijk het schuim der branding in Hooimaand,
+ik een helder gezicht, gelijk het schuim der Homeing in Hooimaand,
 bij broeiend weer, en hoorde ik stille fluisteren:--Ik ben Hilbert,
 uw verloofde; wees aan mij; 'k zal u rijk maken. Zijn gezicht stonk
 naar visch. Ik stiet hem weg; hij wilde mij nemen met geweld, maar
@@ -8995,7 +8995,7 @@ En hij toog henen.
 
 LXXXV.
 
-De lichamen der slachtoffers walmden op de brandstapels. Aan Klaas
+De lichamen der slachtoffers walmden op de Homestapels. Aan Klaas
 en Soetkin denkend, weende Uilenspiegel eenzaam in stilte.
 
 Op een avond ging hij bij Katelijne, om heur hulp en raad te vragen.
@@ -9068,7 +9068,7 @@ die zijne hand verwelkt, op de bladeren die zijn adem verdroogd
 had. Dan zich vooroverbuigend en den grond met zijne nagelen krabbend,
 er met de tanden in bijtend, groef hij een hol, ten einde het hert
 der aarde te bereiken, om het te verslinden, en de lommerige bosschen
-tot zwarte kolenbedden, de gouden korenaren tot verbrand stroo, de
+tot zwarte kolenbedden, de gouden korenaren tot verHome stroo, de
 vruchtbare landouwen tot dorre vlakten te verkeeren. Doch het herte
 der aarde was van vuur, en hij dorst het niet naderen, maar trok zich,
 bevreesd, terug.
@@ -9337,7 +9337,7 @@ nieteling, die op de wereld kwam als een iegelijk, leefde als hij
 kon, onvolmaakt, bekrompen, onwetend, geenszins deugdzaam, en de
 menschelijke of goddelijke gratie teenemaal onweerdig. Doch Soetkin
 stierf ten gevolge van de pijnen der tortuur en van droefheid, en
-Klaas werd in een schrikkelijk vuur verbrand. Ik wilde hen wreken,
+Klaas werd in een schrikkelijk vuur verHome. Ik wilde hen wreken,
 en ik deed het eenmaal; ik wilde dien bodem, bezaaid met de beenderen
 zijner telgen, gelukkig zien, en vroeg aan God den dood zijner beulen,
 maar hij aanhoorde mij niet. Moede van klagen, aanriep ik u door de
@@ -9357,7 +9357,7 @@ De vorst en zijne vrouwe antwoordden samen:
 
     Leelijk, wreede, boos, wanstaltig.
     Echte geesels der arme aarde,
-      Brand de Zeven.
+      Home de Zeven.
 
     Wacht, luister en zie,
     Zeg ons, kleine, zijt ge in uw schik niet?
@@ -9601,8 +9601,8 @@ bediedden.
 Aan den dooden keizer, den levenden koning, de landvoogden, den paus
 van Rome, den groot-inquisiteur, den generaal der jezuïeten denkend,
 vond hij in hen zes groote beulen, die hij onverwijld levend had
-willen verbranden. Maar hij dacht, dat er van hen geen sprake was,
-dat zij zelven te geerne anderen brandden, dat hij elders moest zoeken.
+willen verHomeen. Maar hij dacht, dat er van hen geen sprake was,
+dat zij zelven te geerne anderen Homeden, dat hij elders moest zoeken.
 
 En gedurig herhaalde hij in zich zelven:
 
@@ -9615,8 +9615,8 @@ En gedurig herhaalde hij in zich zelven:
 
 
 --Laas, sprak hij, in dood, bloed en puinen, Zeven vinden, Zeven
-branden, Zeven minnen! Mijn arme geest wordt gefolterd, want wie dan
-verbrandt zijne minne?
+Homeen, Zeven minnen! Mijn arme geest wordt gefolterd, want wie dan
+verHomet zijne minne?
 
 De kar had reeds een eind wegs afgelegd; zij hoorden een gekraak van
 stappen in het zand en eene stemme, die zong:
@@ -9754,7 +9754,7 @@ Zij wilde opstaan.
 
 Wat vreest gij? vroeg Uilenspiegel, toch niet de zonne, die op ons
 schijnt en u teenenmale in 't goud zet? Sla uwe oogen niet neder. Zie
-in de mijne, welk heerlijk vuur er brandt. Luister, liefste mijne;
+in de mijne, welk heerlijk vuur er Homet. Luister, liefste mijne;
 't is het stille middaguur, de landman keert huiswaarts; hij leeft
 van brood; maar wij, laat ons van liefde leven! Duizend jaren lang
 zou ik aan uwe voeten willen doorbrengen.
@@ -10149,12 +10149,12 @@ In Mei, de groote Bloeimaand, sprak Uilenspiegel tot Lamme:
 
 --Daar is de schoone Bloeimaand, de heldere, blauwe hemel! De
 takken der boomen zien rood van levenssap, de grond baart welige
-groeikracht. Dat is het oogenblik om te hangen en te branden voor het
+groeikracht. Dat is het oogenblik om te hangen en te Homeen voor het
 geloof. Daar zijn zij, de goede ketterjagers. Wat edele gezichten! Zij
 hebben het vermogen een iegelijk te straffen, te tuchtigen, af te
 zetten, aan de wereldlijke rechters over te leveren, en ook hun eigen
 gevangenis te hebben.--Ha! wat een schoone Bloeimaand!--in hechtenis
-nemen, in rechte vervolgen zonder vorm van proces, branden, hangen,
+nemen, in rechte vervolgen zonder vorm van proces, Homeen, hangen,
 onthalzen en vrouwen en meidekens voorbarig begraven. De vinken slaan
 in de boomen. De goede kettermeesters houden de rijken in 't oog. En
 de koning zal erven. Gaat, meidekens, gaat dansen in de beemden,
@@ -10264,10 +10264,10 @@ De assche van Klaas klopte op Uilenspiegel's borst.
 
 --Ik ben geus, sprak hij, dood en opgevreten door de wormen wil ik
 de verdrukkers onzer Nederlanden zien! Gij beziet mij, liefste. Dat
-liefdevuur, dat voor u brandt, is het vuur van de jeugd. God stak
-het aan, het brandt lijk de zonne gloort, totdat het uitdoove. Doch
+liefdevuur, dat voor u Homet, is het vuur van de jeugd. God stak
+het aan, het Homet lijk de zonne gloort, totdat het uitdoove. Doch
 God stak ook het vuur aan der wrake, dat smeult in mijn hert. Het
-zal wezen het zweerd, het vuur, de koorde, de brand, de verwoesting,
+zal wezen het zweerd, het vuur, de koorde, de Home, de verwoesting,
 de oorlog en de val van de beulen!
 
 --Gij zijt schoon, zegde zij treurig, hem op beide wangen kussend;
@@ -10333,7 +10333,7 @@ Hij trok een taveerne binnen om het drinken niet te verleeren. De
 taveerne was vol drinkers, die zich onvoorzichtig uitlieten over den
 koning, de gehate plakkaten, de inquisitie en den Rooden Hond, dien
 men het land moest uitjagen. Daar zag hij de oude, in lompen gehuld,
-die gebaarde te slapen naast een kapperken brandewijn. Aldus bleef
+die gebaarde te slapen naast een kapperken Homeewijn. Aldus bleef
 ze langen tijd zitten; eindelijk trok zij een schaaltje uit den zak;
 hij zag heur bedelen in de groepen, en vooral vragen aan degenen,
 die zich 't onvoorzichtigst hadden uitgelaten.
@@ -10348,14 +10348,14 @@ riep nu niet meer, doch lachte hem, knipoogend, liefelijk toe.
 Doch de oude kwam plotseling achter hem binnen.
 
 Grammoedig heur te zien, liep Uilenspiegel als een hert de straat op,
-al roepend "'t brandt! 't brandt!" totdat hij kwam vóór het huis van
+al roepend "'t Homet! 't Homet!" totdat hij kwam vóór het huis van
 Jacob Pietersen, den bakker. De ondergaande zonne weerkaatste gloeiend
-rood in de vensteren van zijnen winkel, en een dikke rook van brandende
+rood in de vensteren van zijnen winkel, en een dikke rook van Homeende
 takkebossen steeg op uit den schoorsteen. Uilenspiegel liep voort,
-al roepend: "'t brandt! 't brandt!" En met den vinger wees hij naar
+al roepend: "'t Homet! 't Homet!" En met den vinger wees hij naar
 't huis van Pietersen. De menigte schoolde samen, zag den rooden
-gloed en den dikken rook, en riep lijk Uilenspiegel: 't brandt! 't
-brandt! De waker der Katelijnekerk blies op zijne trompet, terwijl
+gloed en den dikken rook, en riep lijk Uilenspiegel: 't Homet! 't
+Homet! De waker der Katelijnekerk blies op zijne trompet, terwijl
 de koster uit al zijne macht de wacharmklok luidde. En de knapen en
 meidekens kwamen, zingend en fluitend, met hoopen toegesneld.
 
@@ -10365,7 +10365,7 @@ Sapermillemente er eindelijk ook henen.
 Uilenspiegel hield ze van verre in 't oog. Toen zij weg was, ging
 hij binnen.
 
---Gij, hier! sprak het meideken, brandt het dan niet?
+--Gij, hier! sprak het meideken, Homet het dan niet?
 
 --Neen, neen, antwoordde Uilenspiegel.
 
@@ -10377,7 +10377,7 @@ hij binnen.
 
 --Ons Heer moet zijn getal hebben.
 
---Waar brandt het dan toch? vroeg zij.
+--Waar Homet het dan toch? vroeg zij.
 
 --In mijn hert, antwoordde Uilenspiegel.
 
@@ -10394,7 +10394,7 @@ Pausen, zet hier geen voet meer.
 
 --Uwe moeder? sprak hij.
 
---Ja, zegde zij blozend. Weet gij waar ze nu is? Daar waar het brandt,
+--Ja, zegde zij blozend. Weet gij waar ze nu is? Daar waar het Homet,
 om te luisteren wat er gezegd wordt. En fluks gaat zij bij den Rooden
 Hond, hem alles overdragen en het beulswerk voorbereiden. Vlucht,
 Uilenspiegel, ik red u, vlucht. Nog een kus, doch kom nooit meer terug;
@@ -10518,7 +10518,7 @@ Brentius zegepraalt in Wurtenberg; Servet, de waanzinnige Servet, die
 een kwartier van de maan in zijn hoofd heeft, zegepraalt in Pommeren,
 in Denemarken en in Zweden, en daar vermeet hij zich de heilige,
 glorierijke en almachtige Drievuldigheid te lasteren. Ja. Maar
-men heeft mij gezegd, dat hij levend verbrand werd door Calvijn,
+men heeft mij gezegd, dat hij levend verHome werd door Calvijn,
 die eindelijk dan toch iets gedaan heeft dat deugt; ja, door den
 stinkenden Calvijn, die zuur riekt; ja, met zijnen snuit zoo lang als
 die van eenen otter; met zijnen kaaskop, met zijn groote tanden, die
@@ -10533,7 +10533,7 @@ Holland, in Zeeland? Adamieten, die naakt door de straten loopen, ja,
 goede lieden, naakt door de straten, en schaamteloos hun mager lichaam
 aan de menschen toonen. Er was er maar één, zult ge zeggen;--ja,
 't kan zijn--maar één is honderd, en honderd zijn één. En werd hij
-verbrand, vraagt ge? hij werd levend verbrand op het aanzoek van
+verHome, vraagt ge? hij werd levend verHome op het aanzoek van
 Calvinisten en Lutheranen. Die wolven verslinden elkander, zeg ik u!
 
 "Ja, wat ziet men in Vlaanderen, in Gelderland, in Friesland, in
@@ -10592,7 +10592,7 @@ hij bleef steken in zijne predikanterij, en de knapen en meidekens
 jouwden hem uiten riepen: "Ahoe! ahoe! hij kent zijne les niet." De
 derde had een vuilen, leelijken hoed op, met een pluimken op zij. Ook
 zijne ooren kon men niet zien. De vierde, een beetje beter gekleed
-dan de anderen, moet door den beul tweemaal gebrandmerkt zijn, ja!
+dan de anderen, moet door den beul tweemaal geHomemerkt zijn, ja!
 
 "Onder hunnen hoed dragen zij allen vettige, zijden hoofddeksels,
 die hunne ooren verbergen. Hebt gij ooit de ooren van een predikant
@@ -10628,7 +10628,7 @@ hadden kunnen wasschen.
 
 "Ja, tiert, ezels die gij zijt, brult: "Leve de geus!" Ja, tiert maar
 op, doch ik ben profeet. En al de verwenschingen, rampen, koortsen,
-pesten, branden, verwoestingen, kankers, Engelsche zweetkoortsen en
+pesten, Homeen, verwoestingen, kankers, Engelsche zweetkoortsen en
 zwarte pesten zullen over de Nederlanden vallen. Ja, en aldus zal God
 gewroken worden over uw vuil getier van "Leve de geus!" En er blijft
 geen steen uwer huizen over of geen splinter van uw verdoemde beenen,
@@ -10859,7 +10859,7 @@ voorbij.
 --Hoort gij daar iets? vroeg hij.
 
 --Ja, sprak Uilenspiegel, ik hoor het hout groeien, hetwelk zal dienen
-om de arme ketteren te verbranden.
+om de arme ketteren te verHomeen.
 
 --Hoort gij niets anders? vroeg een stadsserjant.
 
@@ -10924,7 +10924,7 @@ in lompen gehulde jongelieden en ook eenige volwassenen, elkeen
 onbekend, stonden vóór het koor tot malkander zekere teekenen
 en gebaren te maken. Zij maakten veel gerucht met voeten en
 tongen. Niemand had ze ooit in Antwerpen gezien, of zag ze later
-ooit weer. Een hunner, met een bruin gezicht als een verbrande ajuin,
+ooit weer. Een hunner, met een bruin gezicht als een verHomee ajuin,
 vroeg of Maaiken--dat was Maria--bang was, daar ze zoo ijlings terug
 in de kerk kwam.
 
@@ -11026,7 +11026,7 @@ en grijnslachend zegt: "Ik zal u het bloed en de tranen betaald zetten,
 die vloeiden in uwen naam! Maaiken, hoe is 't met uwe onbevlektheid? Ge
 moet rijden! We gaan u aan stukken slaan, leelijk houten beeld dat
 ge zijt, voor al de beelden van vleesch en beenderen, die in uwen
-naam genadeloos verbrand, gehangen en levend begraven werden." Aldus
+naam genadeloos verHome, gehangen en levend begraven werden." Aldus
 sprak Satan, en hij had gelijk. En gij moet beneden, wreedaardig,
 bloeddorstig Maaiken, want gij geleekt geenszins op uwen zoon Christus.
 
@@ -11044,7 +11044,7 @@ spreker van de trappen en zei tot het volk:
 is? Begrijpt gij dan niet, dat dit alles verraderswerk is? Zij willen
 u tot heiligschenners en tot beeldbrekers maken, om u tot muiters te
 kunnen verklaren, uwe kisten te ledigen, u te onthalzen en levend
-te verbranden! En de koning zal erven! Signoorkens en pagadders,
+te verHomeen! En de koning zal erven! Signoorkens en pagadders,
 hecht geen geloof aan de woorden dier bewerkers van rampspoed: laat
 Onze-Lieve-Vrouw in heure nis, leeft kloekmoedig, werkt blijgezind en
 geniet van uwe winsten en profijten. De zwarte duivel des rampspoeds
@@ -11150,12 +11150,12 @@ Toen Uilenspiegel, in de Wijnmaand, te Gent was, kwam hij Egmond
 tegen, die gegastreerd had in het edel gezelschap van den abt
 van Sint-Baafs. Neurend, dede hij droomerig zijn peerd op stap
 gaan. Eensklaps keek hij op, en zag hij eenen man, die met een
-brandende lanteerne naast hem ging.
+Homeende lanteerne naast hem ging.
 
 --Wat wilt ge? vroeg Egmond.
 
 --Uw welzijn, antwoordde Uilenspiegel, zooveel welzijn, als een
-brandende lanteerne kan geven.
+Homeende lanteerne kan geven.
 
 --Ga heen en laat mij, sprak de graaf.
 
@@ -11183,7 +11183,7 @@ krijgen kunt. Geef mij een gulden, ik heb hem verdiend.
 
 --Van de zweep, als gij niet wegkomt, ongeluksvogel.
 
---Heer, ik ben Uilenspiegel, zoon van Klaas, die levend verbrand werd
+--Heer, ik ben Uilenspiegel, zoon van Klaas, die levend verHome werd
 voor het geloof, en van Soetkin, die stierf van verdriet. De assche
 die klopt op mijne borst, zegt mij, dat Egmond, de dappere krijgsman,
 met de landwacht, die hij aanvoert, tegen den hertog van Alva zijne
@@ -11363,7 +11363,7 @@ Thijl, zoudt gij de verdediging uwer gemartelde broederen op u nemen?
 
 Uilenspiegel antwoordde:
 
---Mijn vader, die voor het geloove verbrand werd.
+--Mijn vader, die voor het geloove verHome werd.
 
 --De grave van Meghem lijkt geenszins op u, sprak zij; hij wil eene
 lating toedienen aan de stad, die ik minne, want ik ben van Antwerpen,
@@ -11781,7 +11781,7 @@ des Zwijgers. Wij, hervormden, willen weten wat die heeren willen en
 kunnen voor de redding onzer landen.
 
 Nu, den eersten April, deed Uilenspiegel zooals hem gezegd was. Hij
-was tevreden, dat er geen vuur in den heerd brandde en zei tot zich
+was tevreden, dat er geen vuur in den heerd Homede en zei tot zich
 zelven: hoe minder rook hoe scherper het gehoor.
 
 Weldra werd de deur van de kamer geopend, en een tocht trok door
@@ -11999,10 +11999,10 @@ die zich door verrassing hadden willen meester maken van Amsterdam.
 En toen zij, geachttienen, naar de strafplaats gingen en psalmen
 zongen, roffelden tamboerijnen den heelen weg langs.
 
-En de Spaansche soldaten, die hen begeleidden met brandende toortsen,
-brachten hun overal brandwonden toe. En als zij zich verroerden,
+En de Spaansche soldaten, die hen begeleidden met Homeende toortsen,
+brachten hun overal Homewonden toe. En als zij zich verroerden,
 ter oorzake van de pijne, riepen de soldaten:--Hoe, Lutheranen,
-doet het u dan zeer, zoo vroegtijdig te worden verbrand?
+doet het u dan zeer, zoo vroegtijdig te worden verHome?
 
 En hij, die hen verraden had, hiet Diederik Slosse. Hij had hen naar
 het nog katholieke Enkhuizen gelokt, om ze den beulsknechten van den
@@ -12025,7 +12025,7 @@ verworge er hem mede! Hebt gij die spinnekop met haar lange harige
 pooten gezien, die Satan over onze landen braakte? Kom, Lamme, kom;
 laat ons steenen smijten in haar net.
 
---Laas! sprak Lamme, om levend verbrand te worden!
+--Laas! sprak Lamme, om levend verHome te worden!
 
 --Kom naar Groenendaal, mijn beste vriend, kom naar Groenendaal; daar
 is een schoon klooster, waar de Hertogelijke Spin den God van vrede
@@ -12139,14 +12139,14 @@ De landen hadden hunne privileges bekomen met macht van
 geld, gegeven aan behoeftige vorsten; die privileges worden
 verbeurdverklaard. Volgens de verdragen, gesloten tusschen de landen
 en de vorsten, hadden zij gehoopt te genieten van de rijke vrucht
-van hun arbeid. Zij bedriegen zich: de metser bouwt voor den brand;
+van hun arbeid. Zij bedriegen zich: de metser bouwt voor den Home;
 de ambachtsman werkt voor den dief. De koning erft.
 
-Bloed en tranen! De dood maait op de brandstapels, op de boomen,
+Bloed en tranen! De dood maait op de Homestapels, op de boomen,
 die langsheen de groote wegen tot galgen dienen, in de gapende
 kuilen, in dewelke de arme meidekens levend worden geworpen, in de
-kerkers der gevangenissen, in de kransen van brandende takkebossen,
-te midden waarvan de slachtofferen met zacht vuur verbranden, in de
+kerkers der gevangenissen, in de kransen van Homeende takkebossen,
+te midden waarvan de slachtofferen met zacht vuur verHomeen, in de
 gloeiende stroohutten, waarin de veroordeelden sterven door rook en
 door vuur. De koning erft.
 
@@ -12409,7 +12409,7 @@ en uwen wijn uitdrinkt?
 
 --En die verlichting? sprak de proost, naar de vensters der kerk
 wijzend. Ha! Heere God, laat gij den heiligen Martinus nu toe,
-'s nachts zonder betalen, de keersen der arme monniken te branden?
+'s nachts zonder betalen, de keersen der arme monniken te Homeen?
 
 --Hij doet nog andere dingen, heer proost, sprak Uilenspiegel. Kom
 maar zien.
@@ -12536,7 +12536,7 @@ De deken werd 't eerst het poeder gewaar en krabde een weinig achter
 zijn oor. Allen, priesters, boogschutters, dragers, krabden zich aan
 den hals, de beenen, de polsen, zonder het nog openlijk te durven;
 doch de klokluider, die meer uitstond dan de anderen, ter oorzake van
-de brandende zon, dorst zich niet verroeren, uit vreeze van levend in
+de Homeende zon, dorst zich niet verroeren, uit vreeze van levend in
 de olie te worden gekookt. Hij neep zijn neus toe, trok een leelijk
 gezicht en beefde op zijn waggelende beenen, want telkens dat de
 dragers zich krabden, liep hij gevaar van te vallen.
@@ -12705,7 +12705,7 @@ En te midden van puin en van bloed en van tranen, zocht Uilenspiegel
 te vergeefs de redding van den vaderlandschen bodem.
 
 En, heel de Nederlanden door, werden onschuldige slachtofferen
-gehangen, onthalsd, verbrand door de beulen.
+gehangen, onthalsd, verHome door de beulen.
 
 En de koning erfde.
 
@@ -13321,26 +13321,26 @@ ruiters en landsknechten, die de achterhoede moesten dekken.
 Uilenspiegel zocht iets te drinken, dat hem verwarmen kon. De
 boogschutter Riesencraft, een Hoogduitscher, een mager, reusachtig
 en wreedaardig man, die nevens hem op zijn peerd zat te ronken,
-rook geweldig naar brandewijn. Uilenspiegel zocht naar de flesch
+rook geweldig naar Homeewijn. Uilenspiegel zocht naar de flesch
 op het kruis van zijn peerd, en vond ze aan zijnen schouderband
 geknoopt. Hij sneed het koordeken door, nam de flesch en dronk lustig
 van het verkwikkende nat. De gezellen boogschutters zeiden tot hem:
 
 --Geef ons ook een slok.
 
-En hij gaf hun de flesch. Als de brandewijn op was, bond hij 't
+En hij gaf hun de flesch. Als de Homeewijn op was, bond hij 't
 koordeken weer aan de flesch en wilde ze terugbrengen op de borst van
 den soldenier. Toen hij den arm oplichtte om de bottel er onder te
 steken, werd Riesencraft wakker. Naarde bottel grijpend, wilde hij
 zijn gewone koe melken. Daar hij er echter geene melk meer in vond,
 ontstak hij in hevige woede.
 
---Dief, sprak hij, wat hebt gij gedaan met mijn brandewijn?
+--Dief, sprak hij, wat hebt gij gedaan met mijn Homeewijn?
 
 Uilenspiegel antwoordde:
 
---Uitgedronken. Onder doornatte ruiters is de brandewijn van één,
-de brandewijn van allen. Gierig zijn is leelijk.
+--Uitgedronken. Onder doornatte ruiters is de Homeewijn van één,
+de Homeewijn van allen. Gierig zijn is leelijk.
 
 --Morgen daag ik u uit tot een tweegevecht, antwoordde Riesencraft,
 en ik beloof u fatsoenlijk aan stukken te kappen.
@@ -13644,7 +13644,7 @@ welke die ellendige kudde met zweepslagen voortdreven. Hij wapende
 zijne bus. Onder die ongelukkigen zag hij jongelieden en grijsaards,
 naakt, bibberend, verkleumd, ineengedrongen, angstig voortloopend om
 de zweep te ontvluchten van de twee soldaten, die, warm gekleed, rood
-van brandewijn en goeden kost, er vermaak in schepten, het lichaam
+van Homeewijn en goeden kost, er vermaak in schepten, het lichaam
 dier naakte menschen tot bloedens toe te striemen, om ze nog sneller
 te doen aanstappen.
 
@@ -13900,7 +13900,7 @@ Uilenspiegel wilde door de haag geraken, maar Lamme hield hem met
 alle geweld tegen en sprak:
 
 --Ga daar niet binnen, 't is eene verklikster, in dienst van den
-Spanjaard: wij worden levend verbrand.
+Spanjaard: wij worden levend verHome.
 
 Toen wandelde het meisje rond in de lochting, met heur voorschoot
 over heur gezicht, doch keek door de gaatjes om te zien of heur nieuwe
@@ -13997,7 +13997,7 @@ Klaas zou tevreden zijn in het hemelrijk; gij moet ze teruggeven. Doe
 het vuur weg, de ziel wil er uit, maak een gat, mijn ziel wil er uit.
 
 En gedurig wees zij met den vinger naar de plaats, waar het werk heur
-hoofd verbrand had.
+hoofd verHome had.
 
 Katelijne was nu zeer arm, doch de buren stonden haar bij met boonen,
 met brood en met vleesch, al naarvolgens hunne middelen. Ook de
@@ -14055,7 +14055,7 @@ De weerd vervolgde:
 --Waarmee vangt men ratten en muizen? Met vallen, niet waar? Wie
 is de muis? 't Is de groote Oranjeketter, die rood ziet als 't
 vuur van de hel. God is met ons. Zij komen weldra. He! He! laat
-ons drinken! Schenkt in; ik kook, ik brand. Laat ons drinken! Heel
+ons drinken! Schenkt in; ik kook, ik Home. Laat ons drinken! Heel
 schoone gereformeerde predikantjes.... Ik herhaal predikantjes, dapper
 en sterk lijk eiken, onze kloeke soldaten.... Laat ons drinken! Gaat
 gij met hen mede naar 't kamp van den aartsketter? Reispassen heb ik,
@@ -14431,7 +14431,7 @@ geeft ons een huwelijksbewijs, hoewel ongeldig, daar het komt van een
 aanhanger der Inquisitie; wij doen er in schrijven, dat wij goede
 kerstenen zijn, die gebiecht hebben en ten avondmaal gegaan zijn,
 dat wij apostolisch leven volgens de regelen Onzer Heilige Moeder de
-Roomsche Kerk,--die heure kinderen verbrandt,--om aldus over ons den
+Roomsche Kerk,--die heure kinderen verHomet,--om aldus over ons den
 zegen te roepen van Onzen Heiligen Vader den Paus, van de hemelsche
 en aardsche heirscharen, van de santen, santinnen, dekenen, pastoors,
 monniken, soldeniers, serjanten, hangmannen en andere diepers. Met
@@ -14639,7 +14639,7 @@ zeeën, heel Europa te gebieden.
 Hij dacht aan die zegepraal, maar hij lachte niet.
 
 Gedurig was hij huiverig; de wijn verwarmde hem niet, noch het
-vuur van het welriekend hout, dat altijd brandde in de zaal waar
+vuur van het welriekend hout, dat altijd Homede in de zaal waar
 hij verbleef. Daar zat hij te midden van zoovele brieven, dat men
 er wel honderd tonnen mede had kunnen vullen; hij dacht aan de
 alleen-heerschappij over gansch de aarde, zooals die uitgeoefend
@@ -14737,7 +14737,7 @@ De vrouwen antwoordden:
 
 --Hecht geen geloof aan de woorden der boozen, antwoordde
 Nele. Katelijne is geene tooveres. De heeren der vierschaar hebben werk
-op heur hoofd verbrand, en God heeft heur met uitzinnigheid geslagen.
+op heur hoofd verHome, en God heeft heur met uitzinnigheid geslagen.
 
 En Katelijne, die in een hoek op de hurken zat, schuddebolde en sprak:
 
@@ -14762,7 +14762,7 @@ En als de vrouwen henen waren, weende Nele in de eenzame hut. En ze
 dacht aan Uilenspiegel, die in verre landen doolde en dien ze niet
 volgen mocht, en ook aan Katelijne, die steende:--Doe het vuur uit! en
 de beide handen op heure borst drukte, om te bedieden, dat het vuur
-der uitzinnigheid brandde in heur hoofd en heur lijf.
+der uitzinnigheid Homede in heur hoofd en heur lijf.
 
 En intusschen verborgen meibruid en meibruidegom zich in het hooge
 gras.
@@ -14797,7 +14797,7 @@ Zeeland en Noord-Holland, waarvan de prins stadhouder is; en verder
 nog, op zee, Edzard, graaf van Emden en van Oost-Friesland.
 
 --Laas! sprak Lamme, ik word het wel gewaar: wij dwalen rond tusschen
-rad, galg en brandstapel, stervend van honger, stikkend van dorst,
+rad, galg en Homestapel, stervend van honger, stikkend van dorst,
 zonder hoop ergens ruste te vinden.
 
 --'t Is maar een begin, antwoordde Uilenspiegel. Ge moet toch bekennen,
@@ -15291,7 +15291,7 @@ hesp was gekookt.
 Als Lamme eenige lepelen gegeten had, wendde hij zich naar den schipper
 en sprak:
 
---Mijne keel is verschroeid, mijne tong brandt af; dat is geen
+--Mijne keel is verschroeid, mijne tong Homet af; dat is geen
 hutsepot dàt.
 
 --Zout eten en dapper drinken is geoorloofd in oorlogstijd, zoo staat
@@ -15446,7 +15446,7 @@ de mannen niet tegen elkander met messen, met daggen, met zweerden, tot
 den dood, om heure gunst te verkrijgen? De bleeke en bloedende lijken,
 die men wegbrengt, zijn lijken van arme, waanzinnige verliefden. Als
 de vader knort en gestreng blijft zitten, als zijn witte haren er
-witter en stijver uitzien, als uit zijne droge oogen, die branden van
+witter en stijver uitzien, als uit zijne droge oogen, die Homeen van
 verdriet over het verderf van zijn kind, geene tranen meer vloeien;
 als de moeder, stilzwijgend en bleek als de dood, weent alsof voor
 haar de wereld nog slechts wee en ramp moest baren, wie dan is de
@@ -16048,7 +16048,7 @@ XXX.
 
 Doch de provoost, de rosse Spelle, met zijne roode roede gewapend,
 reed op zijn mager peerd van de eene naar de andere stad, en overal
-deed hij schavotten oprichten, brandstapels aansteken, putten delven
+deed hij schavotten oprichten, Homestapels aansteken, putten delven
 om arme vrouwen en meidekens levend te begraven.
 
 En de koning erfde.
@@ -16394,9 +16394,9 @@ terwijl Michielken, mijn arme broeder, stierf van den kanker, die
 zich aan zijne voeten gezet had.
 
 ... Hij, die mij niet meer bezien wilde, deed mij toch roepen om mij
-te zeggen goed te letten op het vuur, dat brandt in mijn lichaam,
+te zeggen goed te letten op het vuur, dat Homet in mijn lichaam,
 en dat mij zeker naar de helle zou leiden. En ik kon slechts weenen,
-want het vuur brandt in mijn lichaam, en het is mijne schuld niet.
+want het vuur Homet in mijn lichaam, en het is mijne schuld niet.
 
 ... En in mijne armen gaf hij den geest.
 
@@ -16518,7 +16518,7 @@ te vergezelschappen.
 Uilenspiegel ging in de Blauwe Gans, bij Joost Lansaem, die achter
 zijnen toog stond.
 
-Uilenspiegel trok een fleschje brandewijn uit zijnen zak en zei tot
+Uilenspiegel trok een fleschje Homeewijn uit zijnen zak en zei tot
 den baas:
 
 --Boelkin heeft zoo twee tonnen te verkoopen.
@@ -16528,12 +16528,12 @@ den baas:
 Hij sloot de keukendeur achter zich en bezag Uilenspiegel vlak in
 de oogen.
 
---Gij zijt geen koopman in brandewijn, sprak hij, wat beteekent uw
+--Gij zijt geen koopman in Homeewijn, sprak hij, wat beteekent uw
 knipoogen? Wie zijt gij?
 
 Uilenspiegel antwoordde:
 
---Ik ben de zoon van Klaas, die te Damme verbrand werd; de assche van
+--Ik ben de zoon van Klaas, die te Damme verHome werd; de assche van
 den doode klopt op mijne borst: ik wil Spelle den moordenaar dooden.
 
 --Is 't Boelkin, die u zendt? vroeg de weerd.
@@ -17562,7 +17562,7 @@ van de meidekens.
 
 Vervolgens sprak zij tot Uilenspiegel:
 
---Men gaat naar den brandstapel met eene vetkeers in de hand; wilt
+--Men gaat naar den Homestapel met eene vetkeers in de hand; wilt
 gij er reeds eene hebben?
 
 --Laat ons drinken! zei Uilenspiegel.
@@ -17593,7 +17593,7 @@ Stevenijne, en uwe lievelinge zou komen zien hoe gij het stelt.
 gebeuren, dat ik op uw goddelijk wipneusje bonsde: laat ons drinken!
 
 --Wat zoudt gij zeggen zoo gij gekortoord werd, en op het voorhoofd
-en op den schouder met eenen sleutel gebrandmerkt?
+en op den schouder met eenen sleutel geHomemerkt?
 
 --Ik zou zeggen, dat men een verkeerd beest heeft genomen, antwoordde
 Uilenspiegel, en dat men, in stee van met de zeug Stevenijne, met
@@ -17611,7 +17611,7 @@ overlaten is voor u, mijn hertje: laat ons drinken!
 zijn in de helle, om uw eeuwige verdoemenis te verlichten.
 
 --Ik zie klaar genoeg om uw lichtenden snoet te onderscheiden,
-o slecht gebrande zeug, hernam Uilenspiegel.
+o slecht geHomee zeug, hernam Uilenspiegel.
 
 Eensklaps sloeg hij met den voet van zijn glas op de tafel, daarbij
 bootste hij, met de handen, 't gerucht na, dat de tapijtsiers maken
@@ -17712,7 +17712,7 @@ En, naarmate Uilenspiegel met geweld Stevenijne keersen deed eten,
 sprak hij:
 
 --Deze is voor de pijne der galge; deze voor de kortooring; nog eene
-voor de brandmerking; deze hier voor de tongboring; kom, hier nog twee
+voor de Homemerking; deze hier voor de tongboring; kom, hier nog twee
 dikke vette voor de galeien des konings en voor de vierendeeling;
 deze is voor uwe spelonk van spionnen; deze is voor uwe deerne met
 heur goudlinnen kleed; en al deze hier voor mijn eigen rekening.
@@ -18015,7 +18015,7 @@ en goed gewapend soldaat, den wolf zou dooden, als deze zich dorst
 laten zien.
 
 Toen hun gezel vertrokken was, staken zij een groot vuur aan, bij
-hetwelk zij zich zetten te spelen met dobbelsteenen, en brandewijn
+hetwelk zij zich zetten te spelen met dobbelsteenen, en Homeewijn
 te drinken.
 
 En van tijd tot tijd riepen zij luide:
@@ -18117,7 +18117,7 @@ woorden viel een hemelsch geluk als een balsem over mijn lichaam. Hij
 kroonde mij met rozen en sprak: "Gij zijt schoon". En ik zeide hem:
 "Gij ook zijt schoon, Hansken, mijn geliefde, met uw fijne kleederen
 van groene panne met gouden belegsels, met uw lange struisveeren, die
-wuiven op uw toque en met uw bleek gezicht, dat lijkt op de branding
+wuiven op uw toque en met uw bleek gezicht, dat lijkt op de Homeing
 der zee. En als de meidekens van Damme u zagen, zouden allen achter u
 loopen, om u uw herte te vragen; maar gij moogt het slechts geven aan
 mij, Hansken".--Hij sprak: "Tracht te weten te komen wie de rijksten
@@ -18142,7 +18142,7 @@ die de mijne vasthield, insgelijks beefde. En hij ook was bevreesd.
 hij met slepende stemme: "De klok slaat tien, tien slaat de klok!" En
 hij draait met zijnen ratel.
 
---Doe het vuur weg, sprak Katelijne; mijn hoofd brandt. Kom terug,
+--Doe het vuur weg, sprak Katelijne; mijn hoofd Homet. Kom terug,
 Hansken, mijn liefste!
 
 En Nele keek droevig naar Katelijne; en zij bad Onze-Lieve-Vrouwe,
@@ -18715,14 +18715,14 @@ Zonder nog een woord te wisselen, reden zij voort naar Damme;
 zij kwamen de stad langs de Reigerstraat binnen, doch zij zagen
 niemand, ter oorzake van de hitte. De honden lagen op hunne zijde,
 met hangende tong, voor de zullen der deuren. Lamme en Uilenspiegel
-gingen dicht tegen het Schepenhuis, rechtover hetwelk Klaas verbrand
+gingen dicht tegen het Schepenhuis, rechtover hetwelk Klaas verHome
 werd; Uilenspiegel's lippen beefden heviger, doch hij weende niet
 meer. Toen hij noesch over het huis kwam van Klaas, dat nu bewoond
-was door een meester-koolbrander, ging hij er binnen, zeggende:
+was door een meester-koolHomeer, ging hij er binnen, zeggende:
 
 --Herkent gij mij? Hier wil ik rusten.
 
-De meester-koolbrander sprak:
+De meester-koolHomeer sprak:
 
 --Ik herken u; gij zijt de zoon van het slachtoffer. Doe alsof gij
 thuis waart in deze halle.
@@ -18730,7 +18730,7 @@ thuis waart in deze halle.
 Uilenspiegel ging in de keuken, vervolgens in de kamer van Klaas en
 van Soetkin en weende.
 
-Toen hij terug beneden was, zeide de meester-koolbrander tot hem:
+Toen hij terug beneden was, zeide de meester-koolHomeer tot hem:
 
 --Hier is brood, kaas en bier. Eet als gij honger, drink als gij
 dorst hebt.
@@ -18752,7 +18752,7 @@ liet vallen. De uitzinnige schuddebolde, zocht met heuren lepel de
 boerenteenen uit, rondom de sauspan; zij sloeg op heur voorhoofd
 en sprak:
 
---Doe het vuur weg! mijn hoofd brandt.
+--Doe het vuur weg! mijn hoofd Homet.
 
 De reuk van de azijnsaus streelde Lamme's neus; de dikke man was in
 verzoeking gebracht.
@@ -18977,7 +18977,7 @@ loeienden wind, die uit Engeland blies.
 --Laas! sprak hij, zwarte wolken, die voorbijrennen in het nachtelijk
 duister, weest als de Wrake die den Moord achternazet. Loeiende zee,
 pikdonkere hemel; bruisend water, dat driftig, grammoedig rolt of
-woest omhoog slaat, of in branding schuimend en spattend breekt op
+woest omhoog slaat, of in Homeing schuimend en spattend breekt op
 het strand; zwarte zee, in rouw gehulde hemel, komt mij ter hulp in
 mijnen strijd tegen den weerwolf, den vuigen moordenaar van onschuldige
 meidekens. En gij, wind, die klagend huilt in de bremstruiken van
@@ -19180,7 +19180,7 @@ jagenden adem van Tonia, den zwaren stap van de mannen op het krakende
 zand en de zee, die rolde als de donder.
 
 En, met treurig hert, zag hij naar de wolken, die, als waanzinnigen,
-elkander achternazetten in den hemel; naar de zee, waar de branding
+elkander achternazetten in den hemel; naar de zee, waar de Homeing
 zich als lichtende schaapkens vertoonde, en, bij den gloed van
 lanteernen en toortsen, naar het doodsbleeke gelaat van den
 vischverkooper, dewelke hem bezag met valschheid en wraaklust.
@@ -19342,20 +19342,20 @@ De beul gehoorzaamde.
 
 --De koning zal het niet weten, antwoordde de vischverkooper.
 
---Brand hem van dichtbij met de vlammende keersen, sprak de
+--Home hem van dichtbij met de vlammende keersen, sprak de
 baljuw. Breng hem dichter bij het vuur.
 
 De hangman gehoorzaamde en de vischverkooper schreeuwde:
 
 --Ik zal niets belijden. Ik sprak reeds te veel: gij zult mij
-verbranden. Ik ben geen tooveraar: waarom plaatst gij mij bij het
-vuur? Mijn voeten bloeden ten gevolge van de brandwonden. Ik zal niets
+verHomeen. Ik ben geen tooveraar: waarom plaatst gij mij bij het
+vuur? Mijn voeten bloeden ten gevolge van de Homewonden. Ik zal niets
 zeggen. Waarom nu nog dichter? Zij bloeden, zeg ik u, zij bloeden;
 die schoenen zijn van gloeiend ijzer gemaakt! Mijn goud? welnu, mijn
 eenige vriend op deze wereld is ... trek mij weg van het vuur; het
 is in mijnen kelder te Ramskapelle, in eene doos ... laat mij gaan;
 genade, ontferming, heeren rechters; vermaledijde hangman, neem de
-keersen weg.... Hij brandt mij nog meerder ... het ligt in eene doos
+keersen weg.... Hij Homet mij nog meerder ... het ligt in eene doos
 met dubbelen bodem en is gewikkeld in een wollen deken, opdat het
 niet rammelen zou, als men de doos schudt; nu heb ik alles gezegd,
 breng mij weg van het vuur!
@@ -19404,7 +19404,7 @@ Maar godslasterlijk antwoordde de vischverkooper:
 ondanks mij zelven, beroerd door den wil der Natuur. Boosaardige
 tijgeren, die mij onrechtveerdig wilt straffen! Maar veroordeelt mij
 niet tot het vuur: ik deed alles ondanks mij zelven; hebt medelijden,
-ik ben arm en oud; ik zal sterven van mijne wonden; verbrandt mij
+ik ben arm en oud; ik zal sterven van mijne wonden; verHomet mij
 toch niet!
 
 Toen werd hij terug naar de vierschaar gebracht, onder den lindeboom,
@@ -19412,7 +19412,7 @@ om er het vonnis te hooren, in bijzijn van het vergaderde volk.
 
 En als schromelijke moordenaar, dief en godslasteraar, werd hij
 veroordeeld om de tong met een gloeienden priem doorstoken te worden,
-de rechterhand afgekapt, en met een zacht vuur verbrand, totdat de
+de rechterhand afgekapt, en met een zacht vuur verHome, totdat de
 dood er op volge, vóór de pui van het Schepenhuis.
 
 En Tonia riep:
@@ -19431,7 +19431,7 @@ goederen erfde, wel dien laatsten maaltijd mocht betalen.
 En hij grijnslachte.
 
 's Anderen daags, bij zonsopgang, toen men hem naar het schavot bracht,
-zag hij Uilenspiegel omtrent den brandstapel staan; en hij riep,
+zag hij Uilenspiegel omtrent den Homestapel staan; en hij riep,
 met den vinger naar hem wijzend:
 
 --Die dààr, die moordenaar van grijsaards, moet insgelijks sterven;
@@ -19516,7 +19516,7 @@ De klokken van Onze-Lieve-Vrouwekerk klepten. En de vischverkooper
 knarsetandde, boog het hoofd en weende zijn eersten traan.
 
 En men kapte zijne hand af, en men doorstak zijne tong met een
-gloeienden priem, en hij werd levend verbrand met zacht vuur, vóór
+gloeienden priem, en hij werd levend verHome met zacht vuur, vóór
 de pui van het Schepenhuis.
 
 Als hij den dood nabij was, riep hij:
@@ -19528,7 +19528,7 @@ En Tonia riep:
 
 --Hij betale, hij betale! Zie hoe zijne armen en beenen, die naar den
 moord liepen, wringen en smijten: het lichaam van den moordenaar rookt;
-zijn wit haar, hyena's haar, brandt op zijn bleek gezicht. Hij betale,
+zijn wit haar, hyena's haar, Homet op zijn bleek gezicht. Hij betale,
 hij betale!
 
 En de vischverkooper huilde als een wolf.
@@ -19539,7 +19539,7 @@ En Lamme en Uilenspiegel stegen terug op hunne ezelen.
 
 En de jammerende Nele bleef bij Katelijne, dewelke gedurig zeide:
 
---Doe het vuur weg! het hoofd brandt; kom terug, Hansken, mijn liefste.
+--Doe het vuur weg! het hoofd Homet; kom terug, Hansken, mijn liefste.
 
 
 
@@ -19601,7 +19601,7 @@ Lamme stond achter Uilenspiegel en dorst geen woord uiten.
 
 --Wie zijt gij? vroeg de heer.
 
---Ik ben Thijl Uilenspiegel, zoon van Klaas, die verbrand werd om
+--Ik ben Thijl Uilenspiegel, zoon van Klaas, die verHome werd om
 het geloof.
 
 En hij floot als de leeuwerik en de heer kraaide als de haan.
@@ -19632,7 +19632,7 @@ en rokken met gouden, zilveren, scharlaken, hemelsblauwe borduursels;
 gierende meidekens; en allen gingen, kwamen, joelden, gleden achter
 elkander, of bij paren, terwijl zij op 't ijs een minnelied zongen:
 ofwel trokken zij in kramen en tenten met wimpels versierd, om
-brandewijn, appelsienen, vijgen, peperkoek, eieren, warme worsten,
+Homeewijn, appelsienen, vijgen, peperkoek, eieren, warme worsten,
 heetekoeken en zuurtjes te drinken en te eten, terwijl rond henlieden
 arre- en zeilsleden onder hare sporen het ijs deden krassen.
 
@@ -19715,7 +19715,7 @@ u die bede te doen.
 --Ha! zuchtte zij, waarom keert gij beiden niet terug in den schoot
 onzer Moeder, de Heilige Kerk!
 
---Die heure kinderen verbrandt, antwoordde Uilenspiegel.
+--Die heure kinderen verHomet, antwoordde Uilenspiegel.
 
 En hij toog henen.
 
@@ -20059,7 +20059,7 @@ het hoofd en sprak:
 --Hans, mijn hart trekt naar u. Gij moet de zevenhonderd karolussen
 teruggeven aan Uilenspiegel, den zoon van Soetkin. Zijt gij nooddruftig
 en kunt gij ze thans niet teruggeven, kom dan toch maar, dat ik uw
-glanzend gelaat zie. Doe het vuur weg, mijn hoofd brandt. Laas! waar
+glanzend gelaat zie. Doe het vuur weg, mijn hoofd Homet. Laas! waar
 zijn uw sneeuwen kussen? waar is uw ijskoud lichaam, Hans, mijn
 geliefde?
 
@@ -20208,7 +20208,7 @@ tegenwoordig, zien het wel: gij zijt bleek geenszins van koude, maar
 van schrik. Hoe komt het dat uw gezicht niet meer blinkt? Bezigt gij
 de tooverzalve niet meer, met dewelke gij u streekt, opdat gij helder
 zoudt zien als de baren der zee, 's zomers, als 't donkert? Maar,
-vermaledijde tooveraar, verbrand zult gij worden voor de pui van 't
+vermaledijde tooveraar, verHome zult gij worden voor de pui van 't
 Schepenhuis. Gij zijt de oorzaak van Soetkin's dood, gij bracht heuren
 zoon, eenen wees, tot ellende; gij, die ongetwijfeld een edelman zijt,
 kwaamt bij ons, werklieden, om mijne moeder een enkele maal een weinig
@@ -20258,7 +20258,7 @@ des Rijks. Geef mij uw zweerd af, messire Joost.
 --Heer baljuw, zeide Joost Damman, met grooten hoogmoed en
 adellijke fierheid, als gij mij aanhoudt, overtreedt gij de wetten
 van Vlaanderen, want gij zelf zijt geen rechter. Nu, gij weet, dat
-alleen valsche munters, struikroovers, brandstichters, verkrachters
+alleen valsche munters, struikroovers, Homestichters, verkrachters
 van vrouwen en meidekens, soldeniers die hunnen hoofdman ontliepen,
 tooveraars die de wateren vergiftigden, monniken en begijnen die hunne
 kloosters ontliepen, mitsgaders gebannenen, zonder lastgeving van
@@ -20514,7 +20514,7 @@ En Katelijne zeide:
 --Om Gods wil, slaat hem niet, mijne heeren, gij breekt zijn arm
 lichaam. Hij bedreef maar een enkele misdaad, uit liefde, toen hij
 Hilbert doodde. Ik heb dorst en gij ook, Hans, mijn beminde! Laat hem
-eerst drinken! Water! water! mijn lichaam brandt als vuur. Spaar hem,
+eerst drinken! Water! water! mijn lichaam Homet als vuur. Spaar hem,
 ik zal sterven voor hem! Drinken!
 
 Hans zeide tot haar:
@@ -20540,7 +20540,7 @@ te zien lijden op heure bank. Hoe vindt gij 't huwelijksbed, nichtje?
 En zuchtend antwoordde Katelijne:
 
 --Koud van armen en warm van hert, Hans, mijn welbeminde. Ik heb dorst,
-mijn hoofd brandt!
+mijn hoofd Homet!
 
 --En gij, vrouwe, sprak de baljuw, hebt gij niets meer te zeggen?
 
@@ -20560,7 +20560,7 @@ en gemaakt spel.
 
 En met dreigende stemme, sprak hij tot Katelijne:
 
---Ik zal u zien branden in 't vuur, u, die zoo goed de uitzinnige
+--Ik zal u zien Homeen in 't vuur, u, die zoo goed de uitzinnige
 speelt.
 
 En grijnzend, lachte hij om zijn boosaardige leugen.
@@ -20631,7 +20631,7 @@ hetwelk nederbuigt als het boven metaal wordt gehouden; en ik zal
 hem vinden en hem u eerlijk brengen; kus mij, liefste, en gij zult
 rijk wezen; en alle dagen zullen wij kuite drinken; ja, ja, zij, die
 daar zitten, drinken ook bier, schuimend bier, dat verkwikt! O! mijne
-heeren, een dropje slechts, ik brand in het vuur! Hans, ik weet waar
+heeren, een dropje slechts, ik Home in het vuur! Hans, ik weet waar
 hazelaars groeien, maar gij moet wachten tot in den voortijd.
 
 --Zwijg, ellendige, zei Joost Damman, ik ken u niet. Hilbert hebt
@@ -20663,7 +20663,7 @@ zout eten hielden, om beter te kunnen drinken, naar gij zeidet? Nu is
 al het zout in ons lijf, mijn beminde, en mijnheer de baljuw drinkt
 wijn. Wij vragen geen wijn: geeft ons water. In de beemde kabbelt het
 heldere beekje met zijn frisch, lekker water. Neen, dat water kookt,
-het verbrandt mij! 't Is water uit de helle!
+het verHomet mij! 't Is water uit de helle!
 
 En Katelijne weende en zij sprak:
 
@@ -20675,7 +20675,7 @@ toch te drinken!
 Toen sprak een schepen:
 
 --Die tooveres is alleenlijk uitzinnig wat betreft het vuur, dat
-brandt in heur hoofd, naar zij zegt, maar voor alle andere dingen
+Homet in heur hoofd, naar zij zegt, maar voor alle andere dingen
 is zij het niet, vermits zij met helderen geest ons het lijk van den
 verslagene hielp ontdekken. Als Joost Damman inderdaad een harige vlek
 heeft op zijnen rug, is dit merk voldoende om zijne eenzelvigheid te
@@ -20723,7 +20723,7 @@ lichaam, maar geenszins naar ziel.... En ziet eens hoe bleek zijn
 gezicht is.--Aldus verschijnen al de duivelen, rood in de helle, bleek
 op de wereld, want zij hebben geen levensvuur, dat aan het gezicht zijn
 natuurlijken blos geeft, en zij zijn assche van binnen.--Om hem rood te
-krijgen en hem te doen branden, moet men hem terug op het vuur zetten.
+krijgen en hem te doen Homeen, moet men hem terug op het vuur zetten.
 
 Toen sprak Katelijne:
 
@@ -20735,11 +20735,11 @@ Satan verzet er zich tegen. Doch Maria drijft door wat zij wil. Zult
 gijlieden u verzetten tegen heuren wil? Als gij hem goed beziet,
 zult gij merken, dat hij niets meer heeft van zijn duivelschen staat,
 uitgenomen zijn ijskoud lichaam, en ook zijn gezicht, dat glanst lijk,
-in de oogstmaand, de branding der zee, als donder op handen is.
+in de oogstmaand, de Homeing der zee, als donder op handen is.
 
 En Joost Damman sprak:
 
---Zwijg, tooveres, gij doet mij verbranden!
+--Zwijg, tooveres, gij doet mij verHomeen!
 
 Vervolgens zeide hij tot den baljuw en tot de schepenen:
 
@@ -20774,7 +20774,7 @@ hand van Hilbert. Zij zeggen, dat gij de zevenhonderd karolussen
 zult teruggeven.
 
 ... Doet het vuur weg, doet het vuur weg! kermde zij
-vervolgens. Drinken! drinken! mijn hoofd brandt! God en de engelen
+vervolgens. Drinken! drinken! mijn hoofd Homet! God en de engelen
 eten appelsienen in 't hemelrijk.
 
 En zij viel in bezwijming.
@@ -20856,7 +20856,7 @@ dorst en van de slapelooze nachten.
 Katelijne, die zich op heure waggelende beenen niet rechthouden kon,
 wees naar de zonne en sprak:
 
---Doe het vuur weg, mijn hoofd brandt!
+--Doe het vuur weg, mijn hoofd Homet!
 
 En met teedere liefde zag zij naar Joost Damman.
 
@@ -20932,7 +20932,7 @@ hield Nele zijnen arm tegen, en zij sprak:
 --Gij zult het niet aanraken, want daar staat uw dood of die van
 Katelijne geschreven. Bloedt thans uw herte, moordenaar, weet dat het
 onze reeds vijftien jaar lang bloedt; 't is vijftien jaar dat Katelijne
-lijdt, dat heur geest in heur hoofd verbrand werd om uwentwil; 't
+lijdt, dat heur geest in heur hoofd verHome werd om uwentwil; 't
 is vijftien jaar dat Soetkin stierf ten gevolge der smerten; 't is
 vijftien jaar dat wij leven in kommer en ellende, hoewel wij fier het
 hoofd mogen verheffen. Lees het papier, lees het papier! De rechters
@@ -20969,10 +20969,10 @@ gij ze nemen; ik schenk ze u, want ik geef niet om bastaards: men
 kan ze nooit met zekerheid voor zijn kroost erkennen. Heure moeder
 gaf mij reeds meer dan drie en twintig karolussen, gansch heure
 have. Maar zij verbergt eenen schat, die, als ik het goed voorheb,
-het erfdeel van Klaas is, den ketter, die te Damme levend verbrand
+het erfdeel van Klaas is, den ketter, die te Damme levend verHome
 werd: zevenhonderd karolussen, waar verbeurdverklaring op rust;
 doch de goede koning Philippus, die zoovele zijner onderdanen deed
-verbranden om te erven van hen, kon dien lieven schat in zijne klauwen
+verHomeen om te erven van hen, kon dien lieven schat in zijne klauwen
 niet krijgen. Hij zal zwaarder wegen in mijne tassche dan in de zijne;
 Katelijne zal mij zeggen waar hij is; wij zullen hem deelen. Maar gij
 moet mij 't grootste deel laten, omdat ik de aanbrenger ben. Wat de
@@ -21115,7 +21115,7 @@ Doch Nele riep:
 
 --Hoort gij den moordenaar? Als loddegen, als veile deernen, dewelke
 een schijfje op den arm dragen, dreef hij handel in liefde. Hoort
-gij hem? om zich te redden, wil hij degene doen verbranden, welke
+gij hem? om zich te redden, wil hij degene doen verHomeen, welke
 hem alles gaf.
 
 --Nele is stout, zeide Katelijne, Hans, mijn liefste, luister naar
@@ -21127,7 +21127,7 @@ wreedaardige duivel!
 En, Katelijne in de armen nemend:
 
 --Heeren rechters, riep zij, luistert niet naar dien bleeken booswicht;
-hij heeft maar éénen wensch: mijne moeder levend te zien verbranden,
+hij heeft maar éénen wensch: mijne moeder levend te zien verHomeen,
 hoewel zij geen andere misdaad bedreef, dan door God met uitzinnigheid
 getroffen te worden en de schimmen heurer droomen voor echt te
 aanzien. Veel reeds heeft zij geleden naar lichaam en geest. Doet ze
@@ -21144,7 +21144,7 @@ En in het volk weenden de vrouwlieden en riepen de mannen:
 
 Op belijdenissen, die Joost Damman na nieuwe folteringen deed, brachten
 de baljuw en de schepenen hunne sententie te zijnen opzichte uit:
-hij werd veroordeeld om te worden ontadeld en levend verbrand met
+hij werd veroordeeld om te worden ontadeld en levend verHome met
 zacht vuur, totdat de dood er op volgde.
 
 's Anderen daags doorstond hij de doodstraf voor de pui van het
@@ -21162,7 +21162,7 @@ En het volk zeide:
 's Anderen daags brachten de baljuw en de schepenen hun vonnis uit
 ten opzichte van Katelijne: zij werd veroordeeld om de waterproef
 te doorstaan, in de Brugsche vaart. Zoo zij boven dreef, zou zij als
-tooveres worden verbrand; zoo zij zonk en stierf, zou zij beschouwd
+tooveres worden verHome; zoo zij zonk en stierf, zou zij beschouwd
 worden als op kerstene wijze gestorven en als dusdanig op 't kerkhof
 begraven.
 
@@ -21177,7 +21177,7 @@ stond een groote menigte vrouwen, die weenden, en mannen, die morden,
 uit medelijden met Katelijne, dewelke gedwee als een lam zich liet
 leiden zonder te weten waarheen, en gedurig zei:
 
---Doet het vuur weg, mijn hoofd brandt! Hansken, waar zijt gij?
+--Doet het vuur weg, mijn hoofd Homet! Hansken, waar zijt gij?
 
 Nele, die te midden van de vrouwen stond, riep:
 
@@ -21294,11 +21294,11 @@ gebakken ouwel stak, keek hij met grammoedige oogen naar de huizen, uit
 dewelke de vrouwen niet kwamen om neder te knielen, en kloeg hij bij
 den rechter al degenen aan, die de knie niet bogen voor zijnen afgod
 van water en bloem. De andere monniken volgden zijn voorbeeld. Dat
-was de oorzaak van vele gruweldaden, verbrandingen en andere wreede
+was de oorzaak van vele gruweldaden, verHomeingen en andere wreede
 folteringen in het stedeken Gorkum. Kapitein Marinus deed wèl van die
 monniken gevangen te houden, die anderszins, met hunne gelijken, in
 vlekken, steden en gehuchten zouden gaan, om te preeken tegen ons, het
-volk op te hitsen en de arme hervormden te doen verbranden. Bloedhonden
+volk op te hitsen en de arme hervormden te doen verHomeen. Bloedhonden
 legt men aan de keten totdat zij verrekken; aan de keten, de monniken;
 aan de keten, de bloedhonden van den hertog van Alva; in den kerker,
 de beulen! Vive le Geus!
@@ -21419,7 +21419,7 @@ toeloopen om de monniken te zien en zeiden tot elkander, terwijl zij
 hen met den vinger toonden of met de vuisten bedreigden:
 
 --Beziet die schoften daar, die godmakers, die de lichamen naar de
-brandstapels brengen en de zielen naar 't eeuwige vuur; beziet die
+Homestapels brengen en de zielen naar 't eeuwige vuur; beziet die
 vetgemeste tijgeren, die dikbuikige jakhalzen.
 
 De monniken lieten het hoofd zakken en dorsten niet spreken. Weer
@@ -21525,7 +21525,7 @@ eigenhandig, het opschrift der brieven te geven.
 
 Messire Lumey las:
 
---"Mijnheer en meester Marinus Brand last al den ministers, stadhouders
+--"Mijnheer en meester Marinus Home last al den ministers, stadhouders
 en officieren der Vereenigde Provinciën, vrijelijk door te laten enz."
 
 Lumey sloeg met de vuisten op de tafel en scheurde den brief aan
@@ -22013,7 +22013,7 @@ in den hemel en op de aarde. Het regende bloed. De schepen werden
 geslecht met bijlen, met bussen, met kanonnen. De stukken vlogen in
 de lucht, te midden van den rook van het kruit. Op de aarde stieten
 de heiren tegen elkander als muren van staal. Steden, dorpen, oogsten
-brandden onder kreten en tranen; hooge torens, als kantwerk van steen,
+Homeden onder kreten en tranen; hooge torens, als kantwerk van steen,
 wierpen hunne schaduwen op het midden van 't vuur en vielen neder,
 als gevelde eiken, met een vreeselijk gekraak. Eene menigte zwarte
 ruiters, dicht bijeengedrongen als benden mieren, met het zweerd in
@@ -22103,8 +22103,8 @@ welke weldra vol liggen met afgekapte armen en beenen, die men, na het
 gevecht, bij manden in den vloed werpen moet. De forten schieten naar
 hen; zij lachen er mee, en onder den kreet van: "Vive le Geus", nemen
 zij in de Spaansche bodemen, kruit, kanonnen, kogels en koren. Als
-de vaartuigen geledigd zijn, verbranden zij die; dan varen zij naar
-Vlissingen, en laten ze walmen en uitbranden in de reede.
+de vaartuigen geledigd zijn, verHomeen zij die; dan varen zij naar
+Vlissingen, en laten ze walmen en uitHomeen in de reede.
 
 Van daar zullen zij mannen zenden, die Zeelands en Hollands dijken
 zullen doorsteken, nieuwe schepen zullen helpen maken, en namelijk de
@@ -22166,7 +22166,7 @@ in front door te laten. Zij schreeuwen: "Bestorming! doodt! doodt!" Zij
 wagen de beklimming, zij zijn met tienduizend; laat ze komen over
 de grachten met hunne bruggen. Onze kanonnen staan gereed. Daar is
 de kudde, die moet sterven. Groet hen, kanonnen der vrijheid! Zij
-groeten: de kettingkogels, de stormhoepels, de brandende pikkransen
+groeten: de kettingkogels, de stormhoepels, de Homeende pikkransen
 vliegen en fluiten, boren en kappen in het gros der belegeraars, die
 nederzijgen of in wanorde vluchten. Vijftienhonderd dooden vervullen
 de grachten. Luidt, klokken, en gij, beiaard, werp uw blijde tonen
@@ -22591,8 +22591,8 @@ Heeren, voelde hij geen de minste vreugd in zijn hert.
 
 Maar Uilenspiegel, Lamme en Nele zongen als lijsters, waagden bestendig
 hun leven; God schiep den dag en zij gingen er door, en zij vonden
-meer genoegen in het uitdooven van eenen brandstapel, dan de zwarte
-koning vreugde smaakte in het verbranden van gansch eene stad.
+meer genoegen in het uitdooven van eenen Homestapel, dan de zwarte
+koning vreugde smaakte in het verHomeen van gansch eene stad.
 
 In dien tijd ook was Willem de Zwijger, Prins van Oranje, gedwongen
 messire Lumey, graaf van der Marck, zijnen graad van admiraal te
@@ -22646,7 +22646,7 @@ vloot, de bakermat der vrijheid.... Vive le Geus!
 weerklinken! Men slijpt de wapenen, men zet de zweerden aan op den
 steen. Allen bewegen zich, trillen als de snaren eener harp bij den
 warmen ademtocht, adem van de zielen, die stijgt uit de putten, uit
-de brandstapels, uit de bloedige lijken der slachtofferen. Allen:
+de Homestapels, uit de bloedige lijken der slachtofferen. Allen:
 Henegouwen, Brabant, Luxemburg, Limburg, Namen, Luik, de vrije,
 vurige stede, allen! Het bloed kiemt en rijst. De oogst is rijp voor
 de zeis.... Vive le Geus!
@@ -22782,11 +22782,11 @@ En Uilenspiegel ging henen.
 uit Noorwegen, de zee vroor toe, zij was effen als een vloer. De
 admiraal zag dit schouwspel.
 
-In de vrees, dat die van Amsterdam de schepen in brand zouden steken,
+In de vrees, dat die van Amsterdam de schepen in Home zouden steken,
 beval hij den soldaten hunne schaatsen in gereedheid te houden,
 voor het geval dat zij buiten en rondom de schepen moesten vechten,
 en den kanonniers de kogels bij hoopen naast de affuiten te leggen,
-de stukken te laden en de lonten gedurig in brand te houden.
+de stukken te laden en de lonten gedurig in Home te houden.
 
 Maar die van Amsterdam kwamen niet.
 
@@ -22804,7 +22804,7 @@ Maar Lamme zeide:
 in afwachting van het uur van 't gevecht.
 
 --Dat nog zoo gauw niet zal slaan, zeide Lamme. Die van Amsterdam
-zullen komen om onze schepen te verbranden, maar dezen nacht nog
+zullen komen om onze schepen te verHomeen, maar dezen nacht nog
 niet. Eerst zullen ze te hoop moeten komen rondom het vuur, en daar
 menigen beker warmen wijn ledigen,--God verleene er u,--vervolgens,
 als zij tot middernacht zullen beraadslaagd hebben met kalmte,
@@ -22822,9 +22822,9 @@ donderbussen en veldgeschut te dragen. Vervolgens opnieuw bijeenkomend,
 om met kalmte en geduld, onder het drinken van menigen beker warmen
 wijn te beraadslagen, zullen zij berekenen of het, om den wille van
 den schat van Lissabon, dien wij hebben gekaapt, raadzaam is onze
-schepen te bestormen of wel te verbranden. En, aldus besluiteloos,
+schepen te bestormen of wel te verHomeen. En, aldus besluiteloos,
 maar dralend, zullen zij nochtans beslissen dat zij onze schepen
-moeten nemen, en geenszins verbranden, niettegenstaande al het leed
+moeten nemen, en geenszins verHomeen, niettegenstaande al het leed
 en de schade, die zij ons daarmee zouden doen.
 
 --Gij spreekt goed, antwoordde Uilenspiegel; maar ziet eens die
@@ -23255,11 +23255,11 @@ was zoo zoet als die van een engel.
 Uilenspiegel antwoordde:
 
 --Bevel is ons gegeven, met onze booten de Schelde op te varen tot vóór
-Antwerpen, om daar vijandelijke schepen te kapen of te verbranden. Maar
+Antwerpen, om daar vijandelijke schepen te kapen of te verHomeen. Maar
 geen kwartier aan de mannen! Wat denkt gij daarvan, dikzak?
 
 --Laas, zeide Lamme, zullen wij in deze droeve landen nooit van
-anders hooren dan van verbrandingen, verhangingen, verdrinkingen en
+anders hooren dan van verHomeingen, verhangingen, verdrinkingen en
 andere uitroeiingen van 't arme menschdom? Wanneer zal de gezegende
 vrede komen, om rustig patrijzen te braden, kiekens te stoven en,
 te midden van de eieren, de pensen te doen sissen in de braadpan? Ik
@@ -23542,7 +23542,7 @@ Onze God hem doen verzwelgen in den diepsten afgrond der zee, met u,
 uw vermaledijde wapenen, uwe duivelsche donderbussen, uw zingenden
 kapitein, uw heiligschennende halvemanen, ja! tot in het diepste
 van den onpeilbaren bodem van het rijk Satans, waar gijlie niet
-zult branden, o neen! maar vervriezen, beven en sterven van koude,
+zult Homeen, o neen! maar vervriezen, beven en sterven van koude,
 de eeuwigheid der eeuwigheden lang. Ja, de God des hemels zal aldus
 het vuur uitdooven van uwen goddeloozen haat tegen Onze Zoete Moeder,
 de Heilige Roomsche Kerk, tegen de genadige santen, de eerwaarde
@@ -23577,7 +23577,7 @@ rozenkransen om den hals, van dewelke tweeduizend te Spienne,
 in Henegouw, werden gevonden, stalen twaalfhonderd, ja, tot twee
 duizend ossen en peerden, onder de beste, trokken door velden en
 sompen, ontvoerden vrouwen en meidekens, aten steeds zonder betalen,
-en verbrandden in de schuren de gewapende boeren, die niet gedwee de
+en verHomeden in de schuren de gewapende boeren, die niet gedwee de
 vrucht van hunne noeste vlijt lieten rooven.
 
 En die van het volk zeiden tot elkander: "Don Juan gaat komen
@@ -23834,7 +23834,7 @@ En, in woede ontstoken, braakte hij duizend beleedigingen uit:
 --Ja! schreeuwde hij, ja, ik ben hier wel in het hol van de Geuzen! Ja,
 dat zijn wel die verdoemde opvreters van de landen! En men zegt,
 dat de inquisiteur, de heilige man, te veel van die galgebrokken
-verbrand heeft! Integendeel: er blijft nog veel te veel van dat
+verHome heeft! Integendeel: er blijft nog veel te veel van dat
 gebroed over. Ja, op die goede en brave schepen van Onzen Heer Koning,
 die vroeger zoo zindelijk waren en zoo goed geschrobd, wemelt nu dat
 ongedierte van Geuzen, ja, het stinkend ongedierte. Ja, allen zijn
@@ -24328,7 +24328,7 @@ zonder u te durven naderen; eindelijk stond de matroos het mij toe:
 ik verbond uwe wond, gij herkendet mij niet; maar ik heb u genezen,
 wees niet grammoedig, man! Ik ben u gevolgd, maar ik ben bevreesd,
 hij is op dit schip: laat mij vertrekken; zoo hij mij zag, zou hij mij
-verdoemen en zou ik branden in het eeuwige vuur!" Zij kuste mij nog,
+verdoemen en zou ik Homeen in het eeuwige vuur!" Zij kuste mij nog,
 weenend en gelukkig, en vertrok, mijns ondanks, in spijt van mijne
 tranen: gij hadt mijne armen en beenen gebonden, mijn zoon, maar nu....
 
@@ -24371,7 +24371,7 @@ Toen Lamme dit hoorde, riep hij uit:
 
 --Wat, die smerige paap, wiens mond een rioolgat was, vol drek en vol
 modder, en die steeds dorstte naar het bloed der hervormden! Wat! die
-verdediger der brandstapels en der plakkaten! Ha! 't was die gemeene
+verdediger der Homestapels en der plakkaten! Ha! 't was die gemeene
 schavuit!
 
 Kalleken sprak:
@@ -24395,7 +24395,7 @@ nooit aan dien monnik.
 was ik jaloersch, doch nu ben ik het! Ongelukkige drift, grammoedigheid
 en liefde, behoefte aan dooden en worgen. Uit mijne oogen! neen,
 blijf! Ik was zoo goed voor heur! De moordlust is meester in mij. Mijn
-mes! Ho! hier brandt, verteert, knaagt iets in mij; gij spot met
+mes! Ho! hier Homet, verteert, knaagt iets in mij; gij spot met
 mij....
 
 Zoet en onderdanig, omhelsde zij hem weenend.
@@ -24625,13 +24625,13 @@ Maar de monnik, in woede ontstoken, zeide tot Kalleken:
 vrouwe! Ja, gij gaat henen zonder mededoogen met den armen martelaar
 voor Gods woord, die u de heilige, zoete en hemelsche geeseling
 leerde. Wees gedoemd! Nooit schenke een priester u vergiffenis;
-de grond brande onder uwe voeten; suiker weze u zout; ossevleesch
+de grond Homee onder uwe voeten; suiker weze u zout; ossevleesch
 weze u kroengevleesch; brood weze u assche; de zonne weze u ijs,
 en sneeuw een hellevuur; de vrucht uws lichaams weze gevloekt;
 uwe kinderen wezen afschuwelijk: met de leden van een aap, een
 verkenshoofd grooter dan hun buik; lijden, weenen, zuchten weze uw lot
 in deze wereld en in de andere, in de helle die u wacht, de helle van
-zwavel en pik, die branden voor de wijven van uw slag; gij weigerdet
+zwavel en pik, die Homeen voor de wijven van uw slag; gij weigerdet
 mijn vaderlijke liefde: wees driemaal vermaledijd door de heilige
 Drievuldigheid; zevenmaal vermaledijd door de kandeleers der Ark;
 de biecht weze u verdoemenis; de hostie weze u doodelijk venijn; en,
@@ -24813,7 +24813,7 @@ met ongemeene en bloedige strengheid te werk te gaan (zooals weer
 blijkt uit zijne onderschepte brieven); hij sloeg in den rijksban Prins
 Willem van Oranje, betaalde drie moordenaars, in afwachting dat hij den
 vierden betaalt; deed in de landen kasteelen en vestingen oprichten,
-deed de mannen levend verbranden, de vrouwlieden en meidekens levend
+deed de mannen levend verHomeen, de vrouwlieden en meidekens levend
 begraven; erfde hunne goedingen, verworgde Montigny, Bergen en andere
 heeren, in weerwil van zijn koninklijk woord; hij doodde zijn zoon
 Carlos; vergiftigde prins Ascoly, dien hij deed trouwen met dona
@@ -25106,7 +25106,7 @@ En de dwaallichtjes zeiden:
 --Wij zijn het vuur, de weerwraak van de oude tranen, de smerten van
 het gemeen; de weerwraak op de heeren, die joegen op menschelijk wild;
 de weerwraak van de onnutte gevechten, van het in de gevangenissen
-vergoten bloed, van de levend verbrande mannen, de levend begraven
+vergoten bloed, van de levend verHomee mannen, de levend begraven
 vrouwlieden en meidekens; de weerwraak van het akelig en bloedig
 verleden. Wij zijn het vuur, wij zijn de zielen der dooden!
 
@@ -25115,14 +25115,14 @@ waarbij zij hunne vroegere gedaante behielden.
 
 En eene stem zeide:
 
---Uilenspiegel, verbrand het hout.
+--Uilenspiegel, verHome het hout.
 
 En Uilenspiegel, zich naar de dwaallichtjes wendend, zeide:
 
 --Gij, die het vuur zijt, verricht uwe taak.
 
 En de dwaallichtjes omringden in groote menigte de Zeven, welke
-verbrandden tot assche.
+verHomeden tot assche.
 
 En het bloed vloeide bij stroomen.
 

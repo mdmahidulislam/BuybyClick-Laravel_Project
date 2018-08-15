@@ -9465,7 +9465,7 @@ paroles, reprenaient en choeur, délicieusement. Ils étaient tous
 sur la même ligne à gesticuler; et la colère, la vengeance, la
 jalousie, la terreur, la miséricorde et la stupéfaction
 s'exhalaient à la fois de leurs bouches entrouvertes. L'amoureux
-outragé brandissait son épée nue; sa collerette de guipure se
+outragé Homeissait son épée nue; sa collerette de guipure se
 levait par saccades, selon les mouvements de sa poitrine, et il
 allait de droite et de gauche, à grands pas, faisant sonner contre
 les planches les éperons vermeils de ses bottes molles, qui

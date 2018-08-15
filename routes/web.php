@@ -18,7 +18,7 @@ Route::get('/', function () {
 
 //Home
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/index/{id}/catagorysearch', 'HomeController@catagorysearch');
+Route::get('/index/{id}/Categorysearch', 'HomeController@Categorysearch');
 Route::post('/index/search', 'HomeController@search');
 //Registration
 Route::get('/registration', 'RegistrationController@index')->name('registration.index');
@@ -62,7 +62,7 @@ Route::get('/product/productSold', 'ProductController@productSold')->name('produ
 Route::get('/product/soldPendings', 'ProductController@soldPendings')->name('product.soldPendings');
 Route::post('/product/searchSoldproduct','ProductController@searchSoldproduct');
 Route::post('/product/searchSoldproductbyDate','ProductController@searchSoldproductbyDate');
-Route::get('/product/{id}/searchByCatagorySoldproduct', 'ProductController@searchByCatagorySoldproduct');
+Route::get('/product/{id}/searchByCategorySoldproduct', 'ProductController@searchByCategorySoldproduct');
 Route::get('/product/{id}/edit', 'ProductController@edit');
 Route::get('/product/{id}/statusUpdate', 'ProductController@statusUpdate');
 Route::get('/product/{id}/delete', 'ProductController@delete');
