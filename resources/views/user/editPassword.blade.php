@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h2>Edit Password</h2>
-	<a href="/user/userProfile">Back to List</a>
+	<a href="/user/userProfile">Back to Profile</a>
 	<br/><br/>
 	@if(session('message'))
 		<div class=" panel panel-danger">

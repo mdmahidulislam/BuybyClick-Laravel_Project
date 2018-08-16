@@ -22,9 +22,9 @@
 	    </style>
 </head>
 <body>
-	<h2>List of Buy History</h2>
-	<a href="/user/userProfile">Back to User</a> | 
-	<br/><br/>
+	<h2 align="center">List of Buy History</h2>
+	
+	
 	<br/>
 		<table border="1">
 		<tr>
@@ -38,6 +38,8 @@
 			</tr>
 		@endforeach
 	</table>
+	<br/><br/>
+	<a href="/user/userProfile">Back to My Profile</a>  
 
 </body>
 </html>

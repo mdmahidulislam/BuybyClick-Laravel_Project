@@ -22,7 +22,7 @@
 	    </style>
 </head>
 <body>
-	<h2>Order Details</h2>
+	<h2 align="center">Order Details</h2>
 	<a href="/user/userProfile">Back to Buy History</a> | 
 	<br/><br/>
 	<br/>
