@@ -3187,6 +3187,7 @@ tbody.collapse.show {
 .dropup,
 .dropdown {
   position: relative;
+
 }
 
 .dropdown-toggle::after {
@@ -3905,6 +3906,7 @@ tbody.collapse.show {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+
 }
 
 .nav-link {
