@@ -2,11 +2,11 @@
 <html>
 <head>
 	<title>Login</title>
-	@include('partials.head')
+	@include('partials.head') -->
 </head>
 <body id="login">
 	<header>
-		@include('partials.header')
+		@include('partials.header') -->
 	</header>
 
 	<div class="container">
