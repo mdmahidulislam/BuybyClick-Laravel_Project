@@ -58,6 +58,7 @@
                         <td>Phone Number</td>
                         <td>{{$user->phone}}
                         </td>
+                        
                            
                       </tr>
                      @endforeach
