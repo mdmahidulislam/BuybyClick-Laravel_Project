@@ -4,7 +4,7 @@
 	<title>Admin Dashboard</title>
 	@include('partials.head')
 </head>
-<body>
+<body id="adminlogin">
 
 	<header>
 		@include('partials.adminHeader')
@@ -50,9 +50,5 @@
 	  	</h2>
 	  </div>
 	</div>
-	<hr>
-	<footer class="bg-dark text-white">
-	@include('partials.footer')
-	</footer>
 </body>
 </html>

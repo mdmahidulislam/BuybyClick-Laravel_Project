@@ -1,4 +1,7 @@
 <nav class="navbar navbar-defult">
+  <a href="/">
+  <img src="https://i.imgur.com/kfWg4mZ.png" alt="bg" style="width: 100%; margin-left: 2px; margin-top: ">
+</a>
   <div class="container-fluid">
     <!-- Home and toggle get grouped for better mobile display -->
     <div class="navbar-header">

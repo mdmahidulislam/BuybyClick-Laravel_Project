@@ -4,24 +4,22 @@
 <!------ Include the above in your HEAD tag ---------->
 
 <div class="container">
-      <div class="row">
-      <div class="col-md-5  toppad  pull-right col-md-offset-3 ">
-          <A href="/home" >Home</A>
-          <A href="/logout" >Logout</A>
-       <br>
-<p class=" text-info"></p>
-      </div>
-        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad" >
-   
-          <div class="panel panel-info">
-            <div class="panel-heading">
-              @foreach($users as $user)
-              <h3 class="panel-title"></h3>{{$user->name}}
-            </div>
-            <div class="panel-body">
-              <div class="row">
-                <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="http://babyinfoforyou.com/wp-content/uploads/2014/10/avatar-300x300.png" class="img-circle img-responsive"> </div>
-                
+  <div class="row">
+    <div class="col-md-5  toppad  pull-right col-md-offset-3 ">
+      <br>
+      <p class=" text-info"></p>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad" >
+
+      <div class="panel panel-info">
+        <div class="panel-heading">
+          @foreach($users as $user)
+          <h3 class="panel-title"></h3>{{$user->name}}
+        </div>
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="http://babyinfoforyou.com/wp-content/uploads/2014/10/avatar-300x300.png" class="img-circle img-responsive"> </div>
+
                 <!--<div class="col-xs-10 col-sm-10 hidden-md hidden-lg"> <br>
                   <dl>
                     <dt>DEPARTMENT:</dt>
@@ -45,23 +43,23 @@
                         <td>Email:</td>
                         <td>{{$user->email}}</td>
                       </tr>
-                   
-                         <tr>
-                        <tr>
-                        <td>Home Address</td>
-                        <td>{{$user->address}}</td>
-                      </tr>
+
                       <tr>
-                        <td>Email</td>
-                        <td><a href="mailto:info@support.com">{{$user->email}}</a></td>
-                      </tr>
+                        <tr>
+                          <td>Home Address</td>
+                          <td>{{$user->address}}</td>
+                        </tr>
+                        <tr>
+                          <td>Email</td>
+                          <td><a href="mailto:info@support.com">{{$user->email}}</a></td>
+                        </tr>
                         <td>Phone Number</td>
                         <td>{{$user->phone}}
                         </td>
                         
-                           
+
                       </tr>
-                     @endforeach
+                      @endforeach
                     </tbody>
                   </table>
                   
@@ -71,13 +69,17 @@
                 </div>
               </div>
             </div>
-                 <div class="panel-footer">
-                        <a data-original-title="Broadcast Message" data-toggle="tooltip" type="button" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-envelope"></i></a>
-                        <span class="pull-right">
-                            <a href="/useredit/<%=result[i].id%>" data-original-title="Edit this user" data-toggle="tooltip" type="button" class="btn btn-sm btn-warning"><i class="glyphicon glyphicon-edit"></i></a>
-                            <a data-original-title="Remove this user" data-toggle="tooltip" type="button" class="btn btn-sm btn-danger" href="/index"><i class="glyphicon glyphicon-remove"></i></a>
-                        </span>
-                    </div>
+            <div class="panel-footer">
+              <a href="/logout" type="button" class="btn btn-primary"><i class="glyphicon glyphicon-log-out"></i> Logout</a> 
+              <a data-original-title="Broadcast Message" data-toggle="tooltip" type="button" class="btn btn-sm btn-primary"><i class="glyphicon glyphicon-envelope"></i></a>
+
+              <span class="pull-right">
+                <a href="/useredit/<%=result[i].id%>" data-original-title="Edit this user" data-toggle="tooltip" type="button" class="btn btn-sm btn-warning"><i class="glyphicon glyphicon-edit"></i></a>
+                <a data-original-title="Remove this user" data-toggle="tooltip" type="button" class="btn btn-sm btn-danger" href="/home"><i class="glyphicon glyphicon-home"></i></a>
+
+
+              </span>
+            </div>
             
           </div>
         </div>

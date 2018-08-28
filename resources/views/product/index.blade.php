@@ -21,7 +21,7 @@
 	    }
 	    </style>
 </head>
-<body>
+<body id="adminlogin">
 	@include('partials.adminheader')
 	<h2>List of Products</h2>
 	<h3><a class="text-success" href="/product/create">Create New</a></h3>

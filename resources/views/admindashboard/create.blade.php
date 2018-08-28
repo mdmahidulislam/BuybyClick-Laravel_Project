@@ -9,17 +9,15 @@
 	<header>
 		@include('partials.adminHeader')
 	</header>
-	<div class="panel panel-primary">
-		<a href="{{route('logout')}}">
-			<button class="btn-danger btn pull-right">
-				Logout
-			</button>
-		</a>
-	</div>
+	
+		
+	<body id="adminlogin">
 	<!-- if you want to create login page and register page together in one page ...you have to only chnage his name...that's it...                 -->
-	<div class="container font" style="margin-top: 1%;">
+	<div class="container" style="margin-top: 1%;">
 	  <div class="row">
-			<div class="col-md-5 cal-md-offset-2">
+			<div class="col-md-5 full-panel">
+	            <div class="panel panel-primary">
+	                <div class="panel-heading font">
 			<h1 class="text-center text-success font"><strong>Create an Admin</strong></h1>
 			  <div class="tab-content">
 			    <div id="home" class="tab-pane fade in active">
@@ -105,13 +103,10 @@
 					  <button type="submit" class="btn btn-primary btn-lg font" id="submit">Create Admin</button>
 					</form>
 			    </div>
-			    </div>
+			    </div></div></div>
 			   </div>
 	  		</div>
 		</div>
-	<hr>
-	<footer class="bg-dark text-white">
-	@include('partials.footer')
-	</footer>
+
 </body>
 </html>

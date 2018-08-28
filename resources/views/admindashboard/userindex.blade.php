@@ -21,7 +21,7 @@
 	    }
 	    </style>
 </head>
-<body>
+<body id="adminlogin">
 	@include('partials.adminheader')
 	<h2>List of Users</h2>
 	<br/><br/>

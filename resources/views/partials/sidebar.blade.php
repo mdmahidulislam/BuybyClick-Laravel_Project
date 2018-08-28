@@ -1,26 +1,57 @@
 <html>
-<div class="mtt_Category">
-    <img src="https://s6.postimg.org/9m3yvl65p/Category_icon.png" />
-    Category
-</div>
+<style>
+.dropbtn {
+	background-color: #282828;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #282828;
+
+	min-width: 307px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	color: white;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {background-color: #474747;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #474747;}
+</style>
 <div id="mainselection">
-	<nav class="navbar navbar-inverse">
-	  <div class="container-fluid">
-	    <!-- Collect the nav links, forms, and other content for toggling -->
-	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	      <ul class="nav navbar-nav my-nav">
-	        <li class="dropdown my-dropdown">
-	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Select Product <span class="caret text-right"></span></a>
-	          <ul class="dropdown-menu">
-	          	@foreach($categories as $c)
-	          		<li><a href="/index/{{$c->id}}/Categorysearch">{{$c->categoryname}}</a></li>
-	          	@endforeach
-	          </ul>
-	        </li>
-	      </ul>
-	      </div><!-- /.navbar-collapse -->
-	  </div><!-- /.container-fluid -->
-	</nav>
+	
+
+	<div class="dropdown">
+		<button class="dropbtn" style="width: 307px">Category</button>
+		<div class="dropdown-content">
+			@foreach($categories as $c)
+			<li><a href="/index/{{$c->id}}/Categorysearch">{{$c->categoryname}}</a></li>
+			@endforeach
+		</div>
+	</div>
+
+
+
+
 
 
 

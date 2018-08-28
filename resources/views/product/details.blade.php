@@ -94,11 +94,7 @@
 
 
 
-	<hr>
-	<footer class="bg-dark text-white">
-	@include('partials.footer')
-	</footer>
-
+	
 	
   </body>
 </html>

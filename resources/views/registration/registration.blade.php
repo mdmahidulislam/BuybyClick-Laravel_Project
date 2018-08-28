@@ -10,7 +10,8 @@
 	</header>
 	<div class="container font" style="margin-top: 1%;">
 	  <div class="row">
-			<div class="col-md-5 cal-md-offset-2">
+			<div class="col-md-5 full-panel">
+				<div class="panel panel-primary">
 			<h1 class="text-center text-success font"><strong>Register page</strong></h1>
 			  <div class="tab-content">
 			    <div id="home" class="tab-pane fade in active">
@@ -35,6 +36,7 @@
 				    	@endif
 					</div>			    	
 					<form method="post">
+						<center>
 					  <div class="form-group font">
 					    <label for="FullName" class="font">Full Name</label>
 					    <input type="text" class="form-control font" id="name" name="name" value="{{old('name')}}">
@@ -105,20 +107,18 @@
 					    </p>
 					  </div>
 					  <!-- <input type="submit" class="btn btn-primary btn-lg font" value="Submit"> -->
-					  <button type="submit" class="btn btn-primary btn-lg font submit" id="submit">Submit</button>
-					  <button type="submit" class=" pull-right btn-link font"><a href="www.google.com">Forget password</a></button>
+					  <button type="submit" class="btn btn-primary btn-lg font submit" id="submit">Submit</button> <br>
+					  <button type="submit" class=" pull-right btn-link font"><a href="www.google.com">Forget password</a></button> <br>
+					  </center>
 					</form>
 					<br/>
 					<a href="/login" class="pull-right btn btn-block btn-danger font" > Already Register ?   </a>
 			    </div>
 			    </div>
-			   </div>
+			   </div></div>
 	  		</div>
 		</div>
-	<hr>
-	<footer class="bg-dark text-white">
-		@include('partials.footer')
-	</footer>
+
 
 </body>
 </html>

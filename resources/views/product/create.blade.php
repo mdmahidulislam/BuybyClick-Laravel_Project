@@ -4,7 +4,7 @@
 	<title>Admin Dashboard</title>
 	@include('partials.head')
 </head>
-<body>
+<body id="adminlogin">
 
 	<header>
 		@include('partials.adminHeader')
@@ -20,6 +20,8 @@
 	<div class="container font" style="margin-top: 1%;">
 	  <div class="row">
 			<div class="col-md-5 cal-md-offset-2">
+				<div class="panel panel-primary">
+					
 			<h1 class="text-center text-success font"><strong>Product Register page</strong></h1>
 			  <div class="tab-content">
 			    <div id="home" class="tab-pane fade in active">
@@ -30,6 +32,7 @@
 	                		</div>
 	                @endif
 					<form method="post" action="/product">
+						<center>
 					  <div class="form-group font">
 					    <label for="productname" class="font">Product Name:</label>
 					    <input type="text" class="form-control font" id="productname" name="productname">
@@ -100,10 +103,11 @@
 
 					  <!-- <input type="submit" class="btn btn-primary btn-lg font" value="Submit"> -->
 					  <button type="submit" class="btn btn-primary btn-lg font" id="submit">Add</button>
+					</center>
 					</form>
 			    </div>
 			    </div>
-			   </div>
+			   </div></div>
 	  		</div>
 		</div>
 	<hr>

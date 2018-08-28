@@ -21,7 +21,7 @@
 	    }
 	    </style>
 </head>
-<body>
+<body id="adminlogin">
 	@include('partials.adminheader')
 	<h2>List of Sold Products</h2>
 	<div>
