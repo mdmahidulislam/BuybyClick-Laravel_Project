@@ -1,6 +1,18 @@
+<html>
+<style>
+
+
+
+.dropdown-content a:hover {background-color: #474747;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #474747;}
+</style>
+
 <nav class="navbar navbar-inverse">
   <a href="/">
-  <img src="https://i.imgur.com/kfWg4mZ.png" alt="bg" style="width: 100%; margin-left: 2px; margin-top: ">
+  <img src="https://i.imgur.com/roC8E0K.png" alt="bg" style="width: 100%; margin-left: 2px; margin-top: ">
 </a>
   <div class="container-fluid">
     <!-- Home and toggle get grouped for better mobile display -->
@@ -25,19 +37,31 @@
       <ul class="nav navbar-nav navbar-right">
         
         <li><a href="{{route('cart.index')}}"><i class="glyphicon glyphicon-shopping-cart"></i> Cart({{Cart::content()->count()}})</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Account <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="{{route('login.index')}}">Login</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="{{route('registration.index')}}">Registration</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="{{route('login.index')}}">Profile</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="{{route('logout')}}">Logout</a></li>
-          </ul>
+        
+  
+
+  <div class="dropdown">
+    <button class="dropbtn" style="width: 307px;margin-top: 3px;">Account</button>
+    <div class="dropdown-content">
+            <a href="{{route('login.index')}}">Login</a>
+            <a href="{{route('registration.index')}}">Registration</a>
+            <a href="/user/userProfile">Profile</a>
+            <a href="{{route('logout')}}">Logout</a>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+</div>
+
         </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+</html>

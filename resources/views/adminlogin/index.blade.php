@@ -4,7 +4,10 @@
 	<title>Login</title>
 	@include('partials.head')
 </head>
-<body id="adminlogin">
+<body id="login">
+	<header>
+		@include('partials.header') 
+	</header>
 	<div class="container">
 	    <div class="row">
 	        <div class="col-md-5 full-panel">
@@ -57,6 +60,7 @@
 		                            <button type="submit" class="btn btn-success btn-sm font glyphicon glyphicon-log-in"> Login</button>
 	                                 <button type="reset" class="btn btn-default btn-sm font">
 	                                Reset</button>
+	                                <button type="submit" class="btn btn-default btn-sm font" ><a href="/login">I am a User</a></button><br>
 		                        </div>
 		                    </div>
 	                    </form>

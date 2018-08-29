@@ -4,7 +4,7 @@
 	<title>Login</title>
 	@include('partials.head')
 </head>
-<body id="details">
+<body id="themebg">
 
 	<header>
 		@include('partials.header')

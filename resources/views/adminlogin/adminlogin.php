@@ -59,9 +59,10 @@
 		                    <div class="form-group last">
 		                        <div class="col-sm-offset-3 col-sm-9">
 		                            <button type="submit" class="btn btn-success btn-sm font glyphicon glyphicon-log-in"> Login</button>
+	                                 <button type="submit" class="btn btn-default btn-sm font" ><a href="/login">I am a User</a></button><br>
 	                                 <button type="reset" class="btn btn-default btn-sm font">
 	                                Reset</button>
-	                                <button type="submit" class="btn btn-default btn-sm font" ><a href="/adminlogin">I am an Admin</a></button><br>
+	                                
 		                        </div>
 		                    </div>
 	                    </form>

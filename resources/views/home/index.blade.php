@@ -4,7 +4,7 @@
 	<title>Home</title>
 	@include('partials.head')
 </head>
-<body>
+<body id="themebg">
 
 	<header>
 		@include('partials.header')
@@ -37,9 +37,5 @@
 		</div>
 	</div>
 	
-	<hr>
-	<footer class="bg-dark text-white">
-	@include('partials.footer')
-	</footer>
 </body>	
 </html>

@@ -18,7 +18,7 @@
         </div>
         <div class="panel-body">
           <div class="row">
-            <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="http://babyinfoforyou.com/wp-content/uploads/2014/10/avatar-300x300.png" class="img-circle img-responsive"> </div>
+            <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="https://i.imgur.com/s0nNyme.jpg" class="img-circle img-responsive"> </div>
 
                 <!--<div class="col-xs-10 col-sm-10 hidden-md hidden-lg"> <br>
                   <dl>
