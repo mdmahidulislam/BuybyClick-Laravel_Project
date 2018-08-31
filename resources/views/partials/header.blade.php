@@ -43,10 +43,14 @@
   <div class="dropdown">
     <button class="dropbtn" style="width: 307px;margin-top: 3px;">Account</button>
     <div class="dropdown-content">
+          @if(session('user')==NULL)
             <a href="{{route('login.index')}}">Login</a>
             <a href="{{route('registration.index')}}">Registration</a>
+          @endif
+          @if(session('user'))
             <a href="/user/userProfile">Profile</a>
             <a href="{{route('logout')}}">Logout</a>
+          @endif
     </div>
   </div>
 
